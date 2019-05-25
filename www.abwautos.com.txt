@@ -1,0 +1,545 @@
+Unique ID	Make	Model	Trim	VIN	Color	Mileage	Price	ImgUrl
+6156691	Acura	ILX	N/A	19VDE1F34DE001667	Gray	69,800	$10,995	http://x-img.autorevo.com/2013-acura-ilx-naugatuck-ct-6156691/1674370-0-medium.jpg
+6120966	Acura	MDX	N/A	2HNYD2H27DH524363	Gray	16,700	$24,995	http://x-img.autorevo.com/2013-acura-mdx-naugatuck-ct-6120966/1638659-0-medium.jpg
+6134071	Acura	MDX	Tech Pkg	2HNYD2H69BH507306	Black	102,700	$14,995	http://x-img.autorevo.com/2011-acura-mdx-naugatuck-ct-6134071/1651154-0-medium.jpg
+6162662	Acura	MDX	Tech Pkg	2HNYD2H64BH528452	Silver	108,100	$14,495	http://x-img.autorevo.com/2011-acura-mdx-naugatuck-ct-6162662/1680556-0-medium.jpg
+5064413	Acura	MDX	N/A	2HNYD28258H503405	Tan	79,100	$11,995	http://x-img.autorevo.com/2008-acura-mdx-naugatuck-ct-5064413/1621189-0-medium.jpg
+6126969	Acura	TL	N/A	19UUA9F24EA000405	Black	27,400	$21,995	http://x-img.autorevo.com/2014-acura-tl-naugatuck-ct-6126969/1643774-0-medium.jpg
+6125385	Acura	TL	Tech	19UUA9F57EA001610	Burgundy	48,600	$20,995	http://x-img.autorevo.com/2014-acura-tl-naugatuck-ct-6125385/1642864-0-medium.jpg
+6138942	Acura	TL	Tech	19UUA8F50CA002721	Gray	124,800	$9,995	http://x-img.autorevo.com/2012-acura-tl-naugatuck-ct-6138942/1681278-0-medium.jpg
+6163343	Acura	TL	Tech	19UUA8F58BA006949	Black	57,900	$12,995	http://x-img.autorevo.com/2011-acura-tl-naugatuck-ct-6163343/1681143-0-medium.jpg
+6144596	Acura	TL	N/A	19UUA9F22AA007668	Gray	67,000	$13,995	http://x-img.autorevo.com/2010-acura-tl-naugatuck-ct-6144596/1662306-0-medium.jpg
+6157012	Acura	TL	N/A	19UUA9F53AA009388	Black	93,800	$11,495	http://x-img.autorevo.com/2010-acura-tl-naugatuck-ct-6157012/1674882-0-medium.jpg
+6121038	Acura	TL	Tech	19UUA8F56AA012537	White	46,600	$13,895	http://x-img.autorevo.com/2010-acura-tl-naugatuck-ct-6121038/1638744-0-medium.jpg
+6134106	Acura	TL	N/A	19UUA66288A053708	Gray	65,500	$10,495	http://x-img.autorevo.com/2008-acura-tl-naugatuck-ct-6134106/1651198-0-medium.jpg
+6168839	Audi	A3	2.0T Premium	WAUBEAFM7BA013364	Silver	75,400	$10,695	http://x-img.autorevo.com/2011-audi-a3-naugatuck-ct-6168839/1687213-0-medium.jpg
+6114392	Audi	A3	Sedan 2.0T Premium	WAUBFGFF6F1009376	Black	37,800	$17,995	http://x-img.autorevo.com/2015-audi-a3-sedan-naugatuck-ct-6114392/1651256-0-medium.jpg
+6168815	Audi	A4	2.0T	WAUAF78E97A012029	Silver	50,700	$7,995	http://x-img.autorevo.com/2007-audi-a4-naugatuck-ct-6168815/1687191-0-medium.jpg
+6058716	Audi	A5	Coupe Premium	WAUCFAFR4DA007912	Gray	76,800	$14,995	http://x-img.autorevo.com/2013-audi-a5-coupe-naugatuck-ct-6058716/1687364-0-medium.jpg
+6156609	Audi	A6	2.0T Premium	WAUFFAFCXEN019114	Black	41,300	$22,995	http://x-img.autorevo.com/2014-audi-a6-naugatuck-ct-6156609/1674261-0-medium.jpg
+6150545	Audi	A6	3.0T Premium Plus	WAUFGAFC3EN092600	Blue	87,400	$20,995	http://x-img.autorevo.com/2014-audi-a6-naugatuck-ct-6150545/1668647-0-medium.jpg
+6121034	Audi	A6	3.0T Premium Plus	WAUFGAFB7AN038671	Black	87,800	$13,495	http://x-img.autorevo.com/2010-audi-a6-naugatuck-ct-6121034/1638732-0-medium.jpg
+6091715	Audi	A7	3.0 Premium Plus	WAUWGAFC0EN009043	White	72,800	$27,495	http://x-img.autorevo.com/2014-audi-a7-naugatuck-ct-6091715/1608907-0-medium.jpg
+6035489	Audi	A8	L 4.0T	WAUR2AFD2EN004401	Blue	58,600	$33,995	http://x-img.autorevo.com/2014-audi-a8-l-naugatuck-ct-6035489/1626184-0-medium.jpg
+6168832	Audi	Q5	2.0T Premium	WA1CFAFP6BA031394	White	100,800	$12,995	http://x-img.autorevo.com/2011-audi-q5-naugatuck-ct-6168832/1687210-0-medium.jpg
+6162493	Audi	S3	2.0T Prestige	WAUFFGFF7F1058121	Gray	53,200	$29,995	http://x-img.autorevo.com/2015-audi-s3-naugatuck-ct-6162493/1680313-0-medium.jpg
+6005381	Audi	S4	Premium Plus	WAUBGAFL9DA164601	Blue	58,100	$24,995	http://x-img.autorevo.com/2013-audi-s4-naugatuck-ct-6005381/1662837-0-medium.jpg
+6149706	Audi	S7	Prestige	WAUW2AFCXEN102988	Blue	18,900	$49,995	http://x-img.autorevo.com/2014-audi-s7-naugatuck-ct-6149706/1667913-0-medium.jpg
+6150543	Audi	TT	Roadster 2.0T	TRUSFAFK9E1008899	White	41,500	$24,995	http://x-img.autorevo.com/2014-audi-tt-roadster-naugatuck-ct-6150543/1668646-0-medium.jpg
+6139744	BMW	128i	N/A	WBAUL7C54AVJ77628	Silver	50,300	$13,995	http://x-img.autorevo.com/2010-bmw-128i-naugatuck-ct-6139744/1657262-0-medium.jpg
+6120945	BMW	328i	N/A	WBA3A5G55DNP26953	Gray	51,800	$14,995	http://x-img.autorevo.com/2013-bmw-328i-naugatuck-ct-6120945/1638596-0-medium.jpg
+4640776	BMW	328i	N/A	WBAKE5C50BE574194	Black	100,100	$8,995	http://x-img.autorevo.com/2011-bmw-328i-naugatuck-ct-4640776/1674833-0-medium.jpg
+6134036	BMW	328i	N/A	WBAPH53509A438808	Black	90,700	$8,995	http://x-img.autorevo.com/2009-bmw-328i-naugatuck-ct-6134036/1651096-0-medium.jpg
+6156728	BMW	328i	xDrive	WBAPK5C56BF126468	Gray	26,900	$13,995	http://x-img.autorevo.com/2011-bmw-328i-xdrive-naugatuck-ct-6156728/1674420-0-medium.jpg
+6162648	BMW	328i	xDrive	WBAKF5C51BE395868	Red	100,500	$11,495	http://x-img.autorevo.com/2011-bmw-328i-xdrive-naugatuck-ct-6162648/1680543-0-medium.jpg
+6157089	BMW	328i	xDrive	WBAPK5C56AA650392	Gray	82,300	$9,295	http://x-img.autorevo.com/2010-bmw-328i-xdrive-naugatuck-ct-6157089/1674974-0-medium.jpg
+6156983	BMW	328xi	N/A	WBAVC73508KP39993	Gray	115,900	$5,995	http://x-img.autorevo.com/2008-bmw-328xi-naugatuck-ct-6156983/1674837-0-medium.jpg
+6151296	BMW	335i	N/A	WBAVB77518NM05970	White	78,400	$9,495	http://x-img.autorevo.com/2008-bmw-335i-naugatuck-ct-6151296/1669292-0-medium.jpg
+6163396	BMW	335xi	N/A	WBAVD53558A010993	Black	53,700	$10,995	http://x-img.autorevo.com/2008-bmw-335xi-naugatuck-ct-6163396/1681236-0-medium.jpg
+6114362	BMW	428i	N/A	WBA3N7C52EF718780	White	17,900	$23,995	http://x-img.autorevo.com/2014-bmw-428i-naugatuck-ct-6114362/1631986-0-medium.jpg
+6120838	BMW	528i	xDrive	WBA5A7C58GG148334	White	29,600	$33,995	http://x-img.autorevo.com/2016-bmw-528i-xdrive-naugatuck-ct-6120838/1638491-0-medium.jpg
+6162533	BMW	550i	xDrive	WBAKP9C56EDZ34998	Gray	91,600	$26,995	http://x-img.autorevo.com/2014-bmw-550i-xdrive-naugatuck-ct-6162533/1680393-0-medium.jpg
+6168293	BMW	M3	N/A	WBSWD93579P362320	Blue	82,700	$22,995	http://x-img.autorevo.com/2009-bmw-m3-naugatuck-ct-6168293/1686825-0-medium.jpg
+6168177	BMW	X1	xDrive28i	WBAVL1C56EVY20083	Black	72,000	$15,995	http://x-img.autorevo.com/2014-bmw-x1-xdrive28i-naugatuck-ct-6168177/1686564-0-medium.jpg
+5923980	BMW	X3	3.0i	WBXPA93494WC30143	Silver	86,400	$6,995	http://x-img.autorevo.com/2004-bmw-x3-3-0i-naugatuck-ct-5923980/1680823-0-medium.jpg
+6150573	BMW	X3	xDrive28i	5UXWX9C53D0D03542	White	59,200	$17,695	http://x-img.autorevo.com/2013-bmw-x3-xdrive28i-naugatuck-ct-6150573/1668686-0-medium.jpg
+6151313	BMW	X3	xDrive30i	WBXPC9C49AWJ36668	White	83,400	$9,995	http://x-img.autorevo.com/2010-bmw-x3-xdrive30i-naugatuck-ct-6151313/1669325-0-medium.jpg
+6134105	BMW	X3	xDrive30i	WBXPC93489WJ25737	Gray	78,900	$8,995	http://x-img.autorevo.com/2009-bmw-x3-xdrive30i-naugatuck-ct-6134105/1651197-0-medium.jpg
+6161920	BMW	X5	xDrive35i	5UXZV4C55BL408940	Silver	55,600	$17,995	http://x-img.autorevo.com/2011-bmw-x5-xdrive35i-sport-activity-naugatuck-ct-6161920/1679881-0-medium.jpg
+6080939	BMW	X5	xDrive50i	5UXKR6C58E0C03381	Gray	59,200	$35,995	http://x-img.autorevo.com/2014-bmw-x5-xdrive50i-naugatuck-ct-6080939/1598710-0-medium.jpg
+6163317	BMW	X6	xDrive 35i xDrive35i	5UXKU2C58F0N76376	Silver	56,600	$39,995	http://x-img.autorevo.com/2015-bmw-x6-xdrive-35i-naugatuck-ct-6163317/1681114-0-medium.jpg
+6150382	Buick	Enclave	CXL	5GAKVBED8BJ253177	Tan	102,300	$12,495	http://x-img.autorevo.com/2011-buick-enclave-naugatuck-ct-6150382/1686841-0-medium.jpg
+6138908	Buick	Encore	N/A	KL4CJESB8DB209724	Gray	54,900	$12,995	http://x-img.autorevo.com/2013-buick-encore-naugatuck-ct-6138908/1656435-0-medium.jpg
+6119656	Buick	LaCrosse	N/A	1G4GA5ER8DF218184	Gray	55,600	$10,995	http://x-img.autorevo.com/2013-buick-lacrosse-naugatuck-ct-6119656/1637083-0-medium.jpg
+5656886	Cadillac	CTS	Sedan Luxury	1G6DE5E55D0108305	Red	48,100	$12,995	http://x-img.autorevo.com/2013-cadillac-cts-sedan-naugatuck-ct-5656886/1626153-0-medium.jpg
+6163393	Cadillac	DTS	N/A	1G6KD57Y68U127249	White	57,900	$6,995	http://x-img.autorevo.com/2008-cadillac-dts-naugatuck-ct-6163393/1681213-0-medium.jpg
+6150569	Cadillac	Escalade	ESV	1GYS4GEF1DR277190	Black	57,300	$28,995	http://x-img.autorevo.com/2013-cadillac-escalade-esv-naugatuck-ct-6150569/1668680-0-medium.jpg
+6134119	Cadillac	Escalade	Hybrid	1GYFK435X9R138019	White	133,800	$12,995	http://x-img.autorevo.com/2009-cadillac-escalade-hybrid-naugatuck-ct-6134119/1656753-0-medium.jpg
+6145274	Cadillac	SRX	Luxury Collection	3GYFNEE32ES586609	Brown	49,500	$22,995	http://x-img.autorevo.com/2014-cadillac-srx-naugatuck-ct-6145274/1662856-0-medium.jpg
+6058922	Cadillac	STS	AWD	1G6DU6EV8A0127581	Black	98,100	$8,495	http://x-img.autorevo.com/2010-cadillac-sts-naugatuck-ct-6058922/1681292-0-medium.jpg
+6156604	Cadillac	XTS	Luxury	2G61N5S33E9304420	Gray	38,200	$22,995	http://x-img.autorevo.com/2014-cadillac-xts-naugatuck-ct-6156604/1674260-0-medium.jpg
+6120874	Cadillac	XTS	Luxury	2G61M5S32E9216574	Black	78,200	$14,995	http://x-img.autorevo.com/2014-cadillac-xts-naugatuck-ct-6120874/1638621-0-medium.jpg
+6150367	Chevrolet	Avalanche	N/A	3GNTKEE34BG126200	Blue	110,600	$15,495	http://x-img.autorevo.com/2011-chevrolet-avalanche-naugatuck-ct-6150367/1668346-0-medium.jpg
+6156762	Chevrolet	Camaro	LT	2G1FC3D31D9106632	Black	70,100	$14,995	http://x-img.autorevo.com/2013-chevrolet-camaro-naugatuck-ct-6156762/1674480-0-medium.jpg
+6168223	Chevrolet	Camaro	SS	2G1FS1EW6D9239662	Black	76,100	$17,995	http://x-img.autorevo.com/2013-chevrolet-camaro-naugatuck-ct-6168223/1686685-0-medium.jpg
+6168244	Chevrolet	Colorado	LT	1GCJTDFE2C8168069	Silver	113,200	$13,695	http://x-img.autorevo.com/2012-chevrolet-colorado-naugatuck-ct-6168244/1686709-0-medium.jpg
+6161895	Chevrolet	Cruze	LT	1G1PE5SC5C7310427	Silver	50,400	$7,995	http://x-img.autorevo.com/2012-chevrolet-cruze-naugatuck-ct-6161895/1679853-0-medium.jpg
+6162645	Chevrolet	Cruze	LT	1G1PF5S97B7217134	Blue	29,800	$8,995	http://x-img.autorevo.com/2011-chevrolet-cruze-naugatuck-ct-6162645/1680540-0-medium.jpg
+6155983	Chevrolet	Equinox	LT	1GNFLFEK1FZ119850	White	26,800	$15,995	http://x-img.autorevo.com/2015-chevrolet-equinox-naugatuck-ct-6155983/1673826-0-medium.jpg
+6127196	Chevrolet	Equinox	LT	2GNFLEEK4C6276869	Brown	108,600	$8,995	http://x-img.autorevo.com/2012-chevrolet-equinox-naugatuck-ct-6127196/1644053-0-medium.jpg
+6065723	Chevrolet	Impala	LT	2G1WG5E36D1115923	Black	67,700	$6,495	http://x-img.autorevo.com/2013-chevrolet-impala-naugatuck-ct-6065723/1583136-0-medium.jpg
+6156933	Chevrolet	Impala	LT	2G1WG5E30D1155303	Black	112,800	$5,495	http://x-img.autorevo.com/2013-chevrolet-impala-naugatuck-ct-6156933/1674772-0-medium.jpg
+6126986	Chevrolet	Impala	LTZ	2G1WC5E31D1164541	Black	64,300	$8,995	http://x-img.autorevo.com/2013-chevrolet-impala-naugatuck-ct-6126986/1643788-0-medium.jpg
+6107687	Chevrolet	Impala	LS	2G1WB57N291161026	Silver	45,400	$6,995	http://x-img.autorevo.com/2009-chevrolet-impala-naugatuck-ct-6107687/1626364-0-medium.jpg
+6102994	Chevrolet	Impala	Limited LS	2G1WA5E38E1135495	Gray	86,600	$7,495	http://x-img.autorevo.com/2014-chevrolet-impala-limited-naugatuck-ct-6102994/1621067-0-medium.jpg
+6127034	Chevrolet	Malibu	LS	1G1ZB5E08CF372817	Black	70,400	$6,995	http://x-img.autorevo.com/2012-chevrolet-malibu-naugatuck-ct-6127034/1680845-0-medium.jpg
+6168284	Chevrolet	Malibu	LT	1G1ZC5E15BF114372	Blue	63,700	$7,995	http://x-img.autorevo.com/2011-chevrolet-malibu-naugatuck-ct-6168284/1686789-0-medium.jpg
+6091776	Chevrolet	Silverado	1500	1GCRKPEA1DZ104896	Black	125,600	$11,995	http://x-img.autorevo.com/2013-chevrolet-silverado-1500-naugatuck-ct-6091776/1626823-0-medium.jpg
+6161912	Chevrolet	Silverado	1500 LT	1GCRKSE32BZ370493	Blue	80,700	$17,495	http://x-img.autorevo.com/2011-chevrolet-silverado-1500-naugatuck-ct-6161912/1679878-0-medium.jpg
+6161911	Chevrolet	Silverado	1500 LT	1GCRKSE33BZ397668	Blue	86,100	$17,495	http://x-img.autorevo.com/2011-chevrolet-silverado-1500-naugatuck-ct-6161911/1679863-0-medium.jpg
+6161916	Chevrolet	Silverado	1500 LT	1GCRKSE36BZ360579	Blue	100,600	$14,495	http://x-img.autorevo.com/2011-chevrolet-silverado-1500-naugatuck-ct-6161916/1679879-0-medium.jpg
+6151257	Chevrolet	Silverado	1500	1GCEK19089E152486	White	56,500	$15,995	http://x-img.autorevo.com/2009-chevrolet-silverado-1500-naugatuck-ct-6151257/1669233-0-medium.jpg
+6157068	Chevrolet	Silverado	2500HD LT	1GC1KXC8XBF123488	Gray	76,400	$29,995	http://x-img.autorevo.com/2011-chevrolet-silverado-2500hd-naugatuck-ct-6157068/1674953-0-medium.jpg
+6156753	Chevrolet	Sonic	LS	1G1JA5SG8F4114119	Blue	24,300	$7,995	http://x-img.autorevo.com/2015-chevrolet-sonic-naugatuck-ct-6156753/1674455-0-medium.jpg
+6162705	Chevrolet	Sonic	LS	1G1JB5SH7C4153804	Silver	121,000	$2,995	http://x-img.autorevo.com/2012-chevrolet-sonic-naugatuck-ct-6162705/1680605-0-medium.jpg
+6096142	Chevrolet	Spark	LS	KL8CA6S95DC553281	Green	47,900	$5,995	http://x-img.autorevo.com/2013-chevrolet-spark-naugatuck-ct-6096142/1613698-0-medium.jpg
+6107138	Chevrolet	Suburban	LT	1GNSKJKC8FR145010	Black	91,100	$30,995	http://x-img.autorevo.com/2015-chevrolet-suburban-naugatuck-ct-6107138/1625658-0-medium.jpg
+6102118	Chevrolet	Suburban	LT	1GNSKJE7XDR227056	Black	122,200	$15,995	http://x-img.autorevo.com/2013-chevrolet-suburban-naugatuck-ct-6102118/1620942-0-medium.jpg
+6168270	Chevrolet	Suburban	LT	1GNSKJE71CR256184	Gray	98,200	$16,495	http://x-img.autorevo.com/2012-chevrolet-suburban-naugatuck-ct-6168270/1686786-0-medium.jpg
+5955634	Chevrolet	Suburban	LT	1GNSKJE70CR314060	Black	109,900	$13,995	http://x-img.autorevo.com/2012-chevrolet-suburban-naugatuck-ct-5955634/1615220-0-medium.jpg
+6045274	Chevrolet	Tahoe	N/A	1GNSK4E05CR110388	White	102,900	$15,995	http://x-img.autorevo.com/2012-chevrolet-tahoe-naugatuck-ct-6045274/1567771-0-medium.jpg
+6151174	Chevrolet	Tahoe	LS	1GNSKAE0XCR142090	Tan	88,700	$17,995	http://x-img.autorevo.com/2012-chevrolet-tahoe-naugatuck-ct-6151174/1669118-0-medium.jpg
+6125642	Chevrolet	Tahoe	LT	1GNSKBE04BR249219	Black	108,600	$17,295	http://x-img.autorevo.com/2011-chevrolet-tahoe-naugatuck-ct-6125642/1643181-0-medium.jpg
+6151230	Chevrolet	Tahoe	N/A	1GNUKAE09AR108857	Tan	118,100	$12,995	http://x-img.autorevo.com/2010-chevrolet-tahoe-naugatuck-ct-6151230/1669209-0-medium.jpg
+6151431	Chevrolet	Tahoe	LT	1GNUKBE01AR233051	Black	145,000	$11,995	http://x-img.autorevo.com/2010-chevrolet-tahoe-naugatuck-ct-6151431/1669535-0-medium.jpg
+6157102	Chevrolet	Tahoe	LT	1GNFK13028J106114	Burgundy	101,900	$15,495	http://x-img.autorevo.com/2008-chevrolet-tahoe-naugatuck-ct-6157102/1675003-0-medium.jpg
+6163429	Chevrolet	Traverse	LT	1GNKVGKD9EJ210060	Gray	74,500	$16,495	http://x-img.autorevo.com/2014-chevrolet-traverse-naugatuck-ct-6163429/1681266-0-medium.jpg
+6119063	Chrysler	200	S	1C3CCCDG0FN522804	Blue	15,200	$14,995	http://x-img.autorevo.com/2015-chrysler-200-naugatuck-ct-6119063/1636603-0-medium.jpg
+6156856	Chrysler	200	LX	1C3CCBAB5EN124523	Gray	28,600	$9,495	http://x-img.autorevo.com/2014-chrysler-200-naugatuck-ct-6156856/1674646-0-medium.jpg
+6120824	Chrysler	200	Touring	1C3CCBBB8EN150435	Blue	50,200	$8,995	http://x-img.autorevo.com/2014-chrysler-200-naugatuck-ct-6120824/1638401-0-medium.jpg
+6163339	Chrysler	200	Limited	1C3CCBCG9DN654887	Gray	48,900	$9,495	http://x-img.autorevo.com/2013-chrysler-200-naugatuck-ct-6163339/1681130-0-medium.jpg
+6168214	Chrysler	200	LX	1C3CCBAG4DN722175	Red	56,000	$8,995	http://x-img.autorevo.com/2013-chrysler-200-naugatuck-ct-6168214/1686629-0-medium.jpg
+6138932	Chrysler	200	Touring	1C3CCBBB3CN287845	Blue	60,100	$6,995	http://x-img.autorevo.com/2012-chrysler-200-naugatuck-ct-6138932/1662934-0-medium.jpg
+6138795	Chrysler	300	Limited	2C3CCARG2FH818607	Gray	15,700	$19,495	http://x-img.autorevo.com/2015-chrysler-300-naugatuck-ct-6138795/1656267-0-medium.jpg
+6168088	Chrysler	300	Uptown Edition	2C3CCARG2EH381691	Black	30,300	$17,995	http://x-img.autorevo.com/2014-chrysler-300-naugatuck-ct-6168088/1686432-0-medium.jpg
+6125639	Chrysler	300	N/A	2C3CCAAG6CH176092	Silver	39,600	$11,995	http://x-img.autorevo.com/2012-chrysler-300-naugatuck-ct-6125639/1643179-0-medium.jpg
+6161858	Chrysler	Town	& Country Touring-L	2C4RC1CG8ER237474	Blue	38,300	$14,995	http://x-img.autorevo.com/2014-chrysler-town-country-naugatuck-ct-6161858/1679817-0-medium.jpg
+6133888	Chrysler	Town	& Country LX	2A4RR4DE4AR241300	White	69,700	$8,995	http://x-img.autorevo.com/2010-chrysler-town-country-naugatuck-ct-6133888/1680810-0-medium.jpg
+6134104	Chrysler	Town	& Country Limited	2A8HR64X19R604090	Blue	99,300	$7,495	http://x-img.autorevo.com/2009-chrysler-town-country-naugatuck-ct-6134104/1651194-0-medium.jpg
+6107578	Dodge	Avenger	SE	1C3CDZAB0DN753725	Blue	25,000	$7,995	http://x-img.autorevo.com/2013-dodge-avenger-naugatuck-ct-6107578/1626094-0-medium.jpg
+6134009	Dodge	Charger	SE	2C3CDXBG5DH688152	White	59,600	$11,995	http://x-img.autorevo.com/2013-dodge-charger-naugatuck-ct-6134009/1680803-0-medium.jpg
+6168211	Dodge	Charger	SXT	2C3CDXJG0DH678758	Black	115,500	$11,995	http://x-img.autorevo.com/2013-dodge-charger-naugatuck-ct-6168211/1686628-0-medium.jpg
+6157050	Dodge	Charger	SRT8 Super Bee	2C3CDXGJ5CH201454	Yellow	45,400	$24,995	http://x-img.autorevo.com/2012-dodge-charger-naugatuck-ct-6157050/1674900-0-medium.jpg
+6151301	Dodge	Charger	R/T	2B3KA53H37H602371	Red	66,500	$9,995	http://x-img.autorevo.com/2007-dodge-charger-naugatuck-ct-6151301/1680819-0-medium.jpg
+6138840	Dodge	Durango	Limited	1C4RDJDG3EC291902	Gray	38,100	$22,995	http://x-img.autorevo.com/2014-dodge-durango-naugatuck-ct-6138840/1656380-0-medium.jpg
+6125362	Dodge	Durango	R/T	1C4SDJCT6EC594589	White	7,400	$23,995	http://x-img.autorevo.com/2014-dodge-durango-naugatuck-ct-6125362/1642823-0-medium.jpg
+6145302	Dodge	Durango	Crew	1C4RDJDG7DC629140	White	112,600	$13,495	http://x-img.autorevo.com/2013-dodge-durango-naugatuck-ct-6145302/1662879-0-medium.jpg
+6156772	Dodge	Durango	Crew	1C4SDJDTXCC181876	White	83,900	$17,995	http://x-img.autorevo.com/2012-dodge-durango-naugatuck-ct-6156772/1674490-0-medium.jpg
+6144513	Dodge	Durango	SXT	1C4RDJAGXCC266870	White	71,500	$14,995	http://x-img.autorevo.com/2012-dodge-durango-naugatuck-ct-6144513/1662215-0-medium.jpg
+6151434	Dodge	Grand	Caravan	2C4RDGBGXFR670782	Black	19,800	$14,495	http://x-img.autorevo.com/2015-dodge-grand-caravan-naugatuck-ct-6151434/1669534-0-medium.jpg
+6115041	Dodge	Grand	Caravan	2C4RDGBG6FR557895	Blue	23,000	$13,995	http://x-img.autorevo.com/2015-dodge-grand-caravan-naugatuck-ct-6115041/1632018-0-medium.jpg
+6114411	Dodge	Grand	Caravan	2C4RDGBG3FR570135	Silver	25,100	$13,995	http://x-img.autorevo.com/2015-dodge-grand-caravan-naugatuck-ct-6114411/1632046-0-medium.jpg
+6168073	Dodge	Grand	Caravan R/T	2C4RDGEG4ER341814	Gray	69,700	$13,995	http://x-img.autorevo.com/2014-dodge-grand-caravan-naugatuck-ct-6168073/1686429-0-medium.jpg
+6168081	Dodge	Grand	Caravan R/T	2C4RDGEG8ER189844	Gray	87,300	$11,995	http://x-img.autorevo.com/2014-dodge-grand-caravan-naugatuck-ct-6168081/1686433-0-medium.jpg
+6150536	Dodge	Grand	Caravan R/T	2C4RDGEG6ER189714	Blue	89,600	$11,995	http://x-img.autorevo.com/2014-dodge-grand-caravan-naugatuck-ct-6150536/1668620-0-medium.jpg
+6168077	Dodge	Grand	Caravan SXT	2C4RDGCG5ER263076	Gray	34,900	$13,995	http://x-img.autorevo.com/2014-dodge-grand-caravan-naugatuck-ct-6168077/1686430-0-medium.jpg
+6162524	Dodge	Grand	Caravan SXT	2C4RDGCG5ER262106	Blue	56,700	$12,495	http://x-img.autorevo.com/2014-dodge-grand-caravan-naugatuck-ct-6162524/1680350-0-medium.jpg
+6127072	Dodge	Nitro	Heat	1D4PU4GK3BW522657	Black	77,300	$10,295	http://x-img.autorevo.com/2011-dodge-nitro-naugatuck-ct-6127072/1643899-0-medium.jpg
+6157100	Dodge	Nitro	R/T	1D8GU58638W128669	White	75,600	$11,995	http://x-img.autorevo.com/2008-dodge-nitro-naugatuck-ct-6157100/1675001-0-medium.jpg
+6115046	Dodge	Ram	1500 SLT	1D3HV18P99S803863	Black	89,900	$14,995	http://x-img.autorevo.com/2009-dodge-ram-1500-naugatuck-ct-6115046/1637512-0-medium.jpg
+6133142	Fiat	500c	Pop	3C3CFFDR2DT516011	White	25,300	$7,995	http://x-img.autorevo.com/2013-fiat-500c-naugatuck-ct-6133142/1650240-0-medium.jpg
+6156852	Ford	C-Max	Hybrid SE	1FADP5AU3EL501990	Blue	37,300	$11,995	http://x-img.autorevo.com/2014-ford-c-max-hybrid-naugatuck-ct-6156852/1674645-0-medium.jpg
+6120958	Ford	Econoline	Wagon XL	1FBNE31LX7DA92999	White	79,400	$7,995	http://x-img.autorevo.com/2007-ford-econoline-wagon-naugatuck-ct-6120958/1657424-0-medium.jpg
+6134002	Ford	Edge	SE	2FMDK3GC9EBA20200	Black	61,800	$13,395	http://x-img.autorevo.com/2014-ford-edge-naugatuck-ct-6134002/1651028-0-medium.jpg
+6125485	Ford	Edge	SEL	2FMDK4JC8EBB27138	Silver	16,200	$18,995	http://x-img.autorevo.com/2014-ford-edge-naugatuck-ct-6125485/1642980-0-medium.jpg
+6162114	Ford	Edge	SEL	2FMDK4JC7EBA96173	Black	67,400	$13,995	http://x-img.autorevo.com/2014-ford-edge-naugatuck-ct-6162114/1680016-0-medium.jpg
+6145395	Ford	Edge	Limited	2FMDK3K96DBB99340	Blue	53,300	$14,995	http://x-img.autorevo.com/2013-ford-edge-naugatuck-ct-6145395/1680801-0-medium.jpg
+6120935	Ford	Edge	SEL	2FMDK3JC0DBA30377	Kodiak Brown Metalli	49,600	$14,995	http://x-img.autorevo.com/2013-ford-edge-naugatuck-ct-6120935/1638592-0-medium.jpg
+6156686	Ford	Edge	Sport	2FMDK4AK7DBA56133	Black	82,400	$16,995	http://x-img.autorevo.com/2013-ford-edge-naugatuck-ct-6156686/1674349-0-medium.jpg
+6144659	Ford	Escape	SE	1FMCU9GX5FUA64248	Black	37,200	$14,995	http://x-img.autorevo.com/2015-ford-escape-naugatuck-ct-6144659/1662387-0-medium.jpg
+6145233	Ford	Escape	SE	1FMCU9GX5FUA97475	Sunset	48,100	$13,995	http://x-img.autorevo.com/2015-ford-escape-naugatuck-ct-6145233/1662781-0-medium.jpg
+6167892	Ford	Escape	SE	1FMCU9GX5EUB91628	Black	24,500	$13,995	http://x-img.autorevo.com/2014-ford-escape-naugatuck-ct-6167892/1686113-0-medium.jpg
+6125762	Ford	Escape	SE	1FMCU9GX0EUA31138	Blue	28,800	$13,995	http://x-img.autorevo.com/2014-ford-escape-naugatuck-ct-6125762/1681294-0-medium.jpg
+6167891	Ford	Escape	SE	1FMCU9GX4EUD48131	Gray	30,100	$12,995	http://x-img.autorevo.com/2014-ford-escape-naugatuck-ct-6167891/1686110-0-medium.jpg
+6162725	Ford	Escape	SE	1FMCU9GX3EUB75296	Blue	62,900	$10,995	http://x-img.autorevo.com/2014-ford-escape-naugatuck-ct-6162725/1680640-0-medium.jpg
+6157698	Ford	Escape	SE	1FMCU0GX8EUB73488	Gray	65,500	$9,995	http://x-img.autorevo.com/2014-ford-escape-naugatuck-ct-6157698/1675516-0-medium.jpg
+6167888	Ford	Escape	Titanium	1FMCU0JX1EUB33889	Silver	34,900	$14,995	http://x-img.autorevo.com/2014-ford-escape-naugatuck-ct-6167888/1686111-0-medium.jpg
+6021737	Ford	Escape	XLT	1FMCU9DG6CKA70703	Black	109,200	$6,995	http://x-img.autorevo.com/2012-ford-escape-naugatuck-ct-6021737/1674876-0-medium.jpg
+6139663	Ford	Escape	Limited	1FMCU9EG5AKB51848	White	101,500	$7,995	http://x-img.autorevo.com/2010-ford-escape-naugatuck-ct-6139663/1657241-0-medium.jpg
+6156751	Ford	Explorer	XLT	1FM5K8D82FGB70483	Burgundy	36,100	$21,995	http://x-img.autorevo.com/2015-ford-explorer-naugatuck-ct-6156751/1674454-0-medium.jpg
+6156849	Ford	Explorer	Limited	1FM5K8F86EGB12128	Black	63,900	$20,995	http://x-img.autorevo.com/2014-ford-explorer-naugatuck-ct-6156849/1674644-0-medium.jpg
+6167878	Ford	Explorer	Sport	1FM5K8GT0EGB82260	Black	31,000	$26,995	http://x-img.autorevo.com/2014-ford-explorer-naugatuck-ct-6167878/1686095-0-medium.jpg
+6133975	Ford	Explorer	Sport	1FM5K8GT8EGC62521	White	85,800	$22,995	http://x-img.autorevo.com/2014-ford-explorer-naugatuck-ct-6133975/1651007-0-medium.jpg
+6132954	Ford	Explorer	XLT	1FM5K8D83DGB74751	Gray	44,500	$17,995	http://x-img.autorevo.com/2013-ford-explorer-naugatuck-ct-6132954/1649968-0-medium.jpg
+6151284	Ford	Explorer	XLT	1FMEU73E88UB32448	Black	96,100	$7,995	http://x-img.autorevo.com/2008-ford-explorer-naugatuck-ct-6151284/1669275-0-medium.jpg
+6150414	Ford	F-150	Lariat	1FTEX1EP0GFB33894	Red	10,200	$33,495	http://x-img.autorevo.com/2016-ford-f-150-naugatuck-ct-6150414/1668425-0-medium.jpg
+6168922	Ford	F-150	XLT	1FTFW1EFXCFC15267	Gray	126,600	$13,495	http://x-img.autorevo.com/2012-ford-f-150-naugatuck-ct-6168922/1687322-0-medium.jpg
+6161906	Ford	F-150	XLT	1FTVX1ET8BKE12894	Blue	88,600	$15,995	http://x-img.autorevo.com/2011-ford-f-150-naugatuck-ct-6161906/1679856-0-medium.jpg
+6168927	Ford	F-150	XLT	1FTFX1EV1AFD15274	Red	87,800	$13,995	http://x-img.autorevo.com/2010-ford-f-150-naugatuck-ct-6168927/1687320-0-medium.jpg
+6150583	Ford	Fiesta	S	3FADP4TJ6GM170675	White	6,000	$8,995	http://x-img.autorevo.com/2016-ford-fiesta-naugatuck-ct-6150583/1668745-0-medium.jpg
+6149673	Ford	Fiesta	SE	3FADP4BJ0GM185254	Blue	12,700	$9,995	http://x-img.autorevo.com/2016-ford-fiesta-naugatuck-ct-6149673/1667851-0-medium.jpg
+6162820	Ford	Fiesta	SE	3FADP4BJ7CM155677	Red	28,400	$7,295	http://x-img.autorevo.com/2012-ford-fiesta-naugatuck-ct-6162820/1680843-0-medium.jpg
+6120815	Ford	Flex	SE	2FMGK5B81EBD42633	Silver	83,700	$11,995	http://x-img.autorevo.com/2014-ford-flex-naugatuck-ct-6120815/1638393-0-medium.jpg
+6162548	Ford	Flex	SEL	2FMHK6C81DBD31557	Kodiak Brown Metalli	79,500	$15,995	http://x-img.autorevo.com/2013-ford-flex-naugatuck-ct-6162548/1680395-0-medium.jpg
+6144568	Ford	Focus	SE	1FADP3K28FL243176	Silver	27,800	$9,495	http://x-img.autorevo.com/2015-ford-focus-naugatuck-ct-6144568/1662293-0-medium.jpg
+6144428	Ford	Focus	SE	1FADP3F24EL274272	Silver	8,200	$9,695	http://x-img.autorevo.com/2014-ford-focus-naugatuck-ct-6144428/1680797-0-medium.jpg
+6156841	Ford	Focus	SE	1FADP3F20EL102191	Gray	47,800	$6,995	http://x-img.autorevo.com/2014-ford-focus-naugatuck-ct-6156841/1674602-0-medium.jpg
+6151171	Ford	Focus	SE	1FAHP3F21CL213184	Blue	63,300	$5,995	http://x-img.autorevo.com/2012-ford-focus-naugatuck-ct-6151171/1669116-0-medium.jpg
+6125413	Ford	Focus	SES	1FAFP34N57W156271	Red	89,500	$3,995	http://x-img.autorevo.com/2007-ford-focus-naugatuck-ct-6125413/1642919-0-medium.jpg
+6125660	Ford	Fusion	SE	3FA6P0H77HR171661	Black	5,300	$17,495	http://x-img.autorevo.com/2017-ford-fusion-naugatuck-ct-6125660/1643196-0-medium.jpg
+6163312	Ford	Fusion	SE	3FA6P0H79HR145854	Red	12,500	$16,995	http://x-img.autorevo.com/2017-ford-fusion-naugatuck-ct-6163312/1681101-0-medium.jpg
+6162392	Ford	Fusion	Titanium	3FA6P0K92HR116058	White	24,600	$18,995	http://x-img.autorevo.com/2017-ford-fusion-naugatuck-ct-6162392/1680160-0-medium.jpg
+6156790	Ford	Fusion	Titanium	3FA6P0K94HR124744	White	26,600	$18,995	http://x-img.autorevo.com/2017-ford-fusion-naugatuck-ct-6156790/1674521-0-medium.jpg
+6117917	Ford	Fusion	Titanium	3FA6P0K99GR283810	White	18,700	$15,495	http://x-img.autorevo.com/2016-ford-fusion-naugatuck-ct-6117917/1634955-0-medium.jpg
+6125705	Ford	Fusion	SE	3FA6P0H99FR230403	Black	16,400	$12,395	http://x-img.autorevo.com/2015-ford-fusion-naugatuck-ct-6125705/1643277-0-medium.jpg
+6162745	Ford	Fusion	SE	1FA6P0HD6F5112736	Black	19,200	$11,995	http://x-img.autorevo.com/2015-ford-fusion-naugatuck-ct-6162745/1680703-0-medium.jpg
+6162387	Ford	Fusion	SE	3FA6P0H92FR217850	Black	19,500	$12,495	http://x-img.autorevo.com/2015-ford-fusion-naugatuck-ct-6162387/1680157-0-medium.jpg
+6162723	Ford	Fusion	Titanium	3FA6P0D93ER173894	Black	26,400	$14,995	http://x-img.autorevo.com/2014-ford-fusion-naugatuck-ct-6162723/1680639-0-medium.jpg
+6167933	Ford	Fusion	Titanium	3FA6P0K97DR374506	Gray	31,600	$12,495	http://x-img.autorevo.com/2013-ford-fusion-naugatuck-ct-6167933/1686301-0-medium.jpg
+6156955	Ford	Fusion	SE	3FAHP0HA5CR441676	Black	82,000	$7,495	http://x-img.autorevo.com/2012-ford-fusion-naugatuck-ct-6156955/1674781-0-medium.jpg
+6023656	Ford	Fusion	SEL	3FAHP0CG1CR306755	White	73,800	$8,995	http://x-img.autorevo.com/2012-ford-fusion-naugatuck-ct-6023656/1642918-0-medium.jpg
+6157653	Ford	Fusion	SE	3FAHP07Z07R254455	Gray	85,500	$5,995	http://x-img.autorevo.com/2007-ford-fusion-naugatuck-ct-6157653/1675458-0-medium.jpg
+6150339	Ford	Fusion	Energi Titanium	3FA6P0SU0ER189591	Green	23,300	$15,995	http://x-img.autorevo.com/2014-ford-fusion-energi-naugatuck-ct-6150339/1668310-0-medium.jpg
+6150304	Ford	Fusion	Hybrid SE	3FA6P0LU4FR300031	White	23,300	$13,995	http://x-img.autorevo.com/2015-ford-fusion-hybrid-naugatuck-ct-6150304/1668296-0-medium.jpg
+6150365	Ford	Fusion	Hybrid SE	3FA6P0LU6DR299378	Silver	25,300	$13,495	http://x-img.autorevo.com/2013-ford-fusion-hybrid-naugatuck-ct-6150365/1668334-0-medium.jpg
+6167983	Ford	Mustang	EcoBoost Premium	1FATP8UHXG5238285	Silver	30,200	$20,995	http://x-img.autorevo.com/2016-ford-mustang-naugatuck-ct-6167983/1686211-0-medium.jpg
+6167864	Ford	Mustang	V6	1FA6P8AM5G5325624	White	6,400	$16,995	http://x-img.autorevo.com/2016-ford-mustang-naugatuck-ct-6167864/1686094-0-medium.jpg
+6167989	Ford	Mustang	V6	1FATP8EM9F5404368	Black	23,300	$17,995	http://x-img.autorevo.com/2015-ford-mustang-naugatuck-ct-6167989/1686226-0-medium.jpg
+6163388	Ford	Super	Duty F-250 Lariat	1FT7X2BT8BED12649	White	75,300	$28,995	http://x-img.autorevo.com/2011-ford-super-duty-f-250-naugatuck-ct-6163388/1681205-0-medium.jpg
+5715294	Ford	Super	Duty F-350 SRW	1FTWX31R38EB10544	White	80,300	$16,995	http://x-img.autorevo.com/2008-ford-super-duty-f-350-srw-naugatuck-ct-5715294/1626817-0-medium.jpg
+6138786	Ford	Taurus	Limited	1FAHP2F87FG144500	Silver	28,900	$15,995	http://x-img.autorevo.com/2015-ford-taurus-naugatuck-ct-6138786/1656264-0-medium.jpg
+6151397	Ford	Taurus	Limited	1FAHP2F83DG204320	Black	98,400	$9,995	http://x-img.autorevo.com/2013-ford-taurus-naugatuck-ct-6151397/1669459-0-medium.jpg
+6168901	Ford	Taurus	SE	1FAHP2D81DG225671	Black	38,400	$9,995	http://x-img.autorevo.com/2013-ford-taurus-naugatuck-ct-6168901/1687294-0-medium.jpg
+6157702	Ford	Transit	Connect Van	NM0LS7AN6DT175185	White	38,300	$11,995	http://x-img.autorevo.com/2013-ford-transit-connect-van-naugatuck-ct-6157702/1675518-0-medium.jpg
+6162621	Ford	Transit	Connect Van XLT	NM0LS7BN2CT081303	Blue	44,700	$9,995	http://x-img.autorevo.com/2012-ford-transit-connect-van-naugatuck-ct-6162621/1680494-0-medium.jpg
+6133947	Ford	Transit	Connect Wagon XLT	NM0GE9F71E1153946	White	31,200	$12,995	http://x-img.autorevo.com/2014-ford-transit-connect-wagon-naugatuck-ct-6133947/1674863-0-medium.jpg
+6127026	GMC	Canyon	4WD SLE	1GTH6BE3XF1147543	White	38,900	$24,495	http://x-img.autorevo.com/2015-gmc-canyon-naugatuck-ct-6127026/1643833-0-medium.jpg
+6057351	GMC	Canyon	SLE	1GTH6MFE7B8128669	Red	82,900	$14,995	http://x-img.autorevo.com/2011-gmc-canyon-naugatuck-ct-6057351/1681090-0-medium.jpg
+6108468	GMC	Sierra	1500 SLE	1GTR2VE72DZ183746	Burgundy	58,900	$19,995	http://x-img.autorevo.com/2013-gmc-sierra-1500-naugatuck-ct-6108468/1626976-0-medium.jpg
+6134024	GMC	Sierra	1500 SLE	1GTR2VE74DZ192013	Gray	75,800	$17,995	http://x-img.autorevo.com/2013-gmc-sierra-1500-naugatuck-ct-6134024/1662951-0-medium.jpg
+6145293	GMC	Sierra	1500 SLE	3GTP2VE73DG216101	Black	124,400	$15,995	http://x-img.autorevo.com/2013-gmc-sierra-1500-naugatuck-ct-6145293/1662878-0-medium.jpg
+6091761	GMC	Sierra	1500 SLE	1GTR2VE73CZ355314	White	116,100	$12,995	http://x-img.autorevo.com/2012-gmc-sierra-1500-naugatuck-ct-6091761/1609002-0-medium.jpg
+6091772	GMC	Sierra	1500 SLE	2GTEK13J381340169	White	130,400	$11,995	http://x-img.autorevo.com/2008-gmc-sierra-1500-naugatuck-ct-6091772/1609011-0-medium.jpg
+6168001	GMC	Sierra	2500HD	1GT22XEG1FZ109900	White	44,000	$25,995	http://x-img.autorevo.com/2015-gmc-sierra-2500hd-available-wifi-naugatuck-ct-6168001/1686264-0-medium.jpg
+6139790	GMC	Sierra	2500HD	1GT22ZCG9DZ319074	Gray	132,300	$15,995	http://x-img.autorevo.com/2013-gmc-sierra-2500hd-naugatuck-ct-6139790/1657327-0-medium.jpg
+6106264	GMC	Sierra	2500HD SLT	1GT221C80BZ387741	Black	72,900	$30,995	http://x-img.autorevo.com/2011-gmc-sierra-2500hd-naugatuck-ct-6106264/1626222-0-medium.jpg
+6133929	GMC	Sierra	2500HD SLE	1GTHK59K69E119220	Blue	96,000	$16,995	http://x-img.autorevo.com/2009-gmc-sierra-2500hd-naugatuck-ct-6133929/1674875-0-medium.jpg
+6155971	GMC	Terrain	SLE	2GKFLVEK9F6208035	Silver Sky Metalli	25,500	$16,995	http://x-img.autorevo.com/2015-gmc-terrain-naugatuck-ct-6155971/1673785-0-medium.jpg
+6144550	GMC	Terrain	SLT	2GKFLXEKXF6316644	Black	33,700	$17,995	http://x-img.autorevo.com/2015-gmc-terrain-naugatuck-ct-6144550/1686827-0-medium.jpg
+6144472	GMC	Terrain	SLE	2GKFLWEK4E6352323	Black	24,700	$15,995	http://x-img.autorevo.com/2014-gmc-terrain-naugatuck-ct-6144472/1662218-0-medium.jpg
+6120928	GMC	Terrain	SLE	2GKFLTE39D6349374	Blue	120,400	$10,995	http://x-img.autorevo.com/2013-gmc-terrain-naugatuck-ct-6120928/1638572-0-medium.jpg
+6133086	GMC	Terrain	SLT	2GKFLXE32D6353368	Black	100,600	$12,995	http://x-img.autorevo.com/2013-gmc-terrain-naugatuck-ct-6133086/1650118-0-medium.jpg
+5929350	GMC	Terrain	SLE	2CTFLEEW7A6338147	Black	68,800	$10,995	http://x-img.autorevo.com/2010-gmc-terrain-naugatuck-ct-5929350/1681092-0-medium.jpg
+6168830	GMC	Yukon	SLE	1GKS2AE06BR170528	Gray	104,700	$16,995	http://x-img.autorevo.com/2011-gmc-yukon-naugatuck-ct-6168830/1687208-0-medium.jpg
+6133287	GMC	Yukon	SLE	1GKFK13077J124412	Black	85,600	$13,995	http://x-img.autorevo.com/2007-gmc-yukon-naugatuck-ct-6133287/1650427-0-medium.jpg
+6119864	GMC	Yukon	SLT	1GKFK13J27R100481	Red	90,800	$12,995	http://x-img.autorevo.com/2007-gmc-yukon-naugatuck-ct-6119864/1637361-0-medium.jpg
+6028729	GMC	Yukon	XL Denali	1GKS2JKJ5FR243441	Black	64,100	$38,995	http://x-img.autorevo.com/2015-gmc-yukon-xl-naugatuck-ct-6028729/1638469-0-medium.jpg
+6150236	GMC	Yukon	XL SLT	1GKS2KE38BR389586	Black	85,900	$18,995	http://x-img.autorevo.com/2011-gmc-yukon-xl-naugatuck-ct-6150236/1668135-0-medium.jpg
+6156719	GMC	Yukon	XL Denali	1GKS2MEF5BR171966	White	111,200	$19,995	http://x-img.autorevo.com/2011-gmc-yukon-xl-denali-naugatuck-ct-6156719/1674419-0-medium.jpg
+6155968	Honda	Accord	EX	1HGCT1A75GA005271	Black	20,900	$19,495	http://x-img.autorevo.com/2016-honda-accord-naugatuck-ct-6155968/1673783-0-medium.jpg
+6162749	Honda	Accord	EX-L	1HGCT2B83FA009346	White	12,200	$18,495	http://x-img.autorevo.com/2015-honda-accord-naugatuck-ct-6162749/1680705-0-medium.jpg
+6157776	Honda	Accord	EX-L	1HGCT1B82EA004695	Silver	45,200	$14,395	http://x-img.autorevo.com/2014-honda-accord-naugatuck-ct-6157776/1675619-0-medium.jpg
+6125397	Honda	Accord	EX	1HGCR2F71DA176754	Tan	39,100	$13,295	http://x-img.autorevo.com/2013-honda-accord-naugatuck-ct-6125397/1642875-0-medium.jpg
+6162390	Honda	Accord	EX-L	1HGCP2F81AA036214	White	83,800	$8,995	http://x-img.autorevo.com/2010-honda-accord-naugatuck-ct-6162390/1680159-0-medium.jpg
+6163386	Honda	Accord	EX-L	1HGCP26869A027696	Gray	101,200	$6,995	http://x-img.autorevo.com/2009-honda-accord-naugatuck-ct-6163386/1681203-0-medium.jpg
+6168933	Honda	Accord	LX	1HGCP26399A034047	Black	88,200	$6,995	http://x-img.autorevo.com/2009-honda-accord-naugatuck-ct-6168933/1687327-0-medium.jpg
+6168300	Honda	Accord	LX-S	1HGCS12369A026311	Black	82,600	$7,995	http://x-img.autorevo.com/2009-honda-accord-naugatuck-ct-6168300/1686842-0-medium.jpg
+6115017	Honda	Civic	LX	2HGFC4A52GH300309	Blue	7,200	$14,995	http://x-img.autorevo.com/2016-honda-civic-naugatuck-ct-6115017/1636611-0-medium.jpg
+6161771	Honda	Civic	LX	19XFB2F52FE296710	Black	18,000	$11,995	http://x-img.autorevo.com/2015-honda-civic-naugatuck-ct-6161771/1680134-0-medium.jpg
+6138768	Honda	Civic	LX	19XFB2F5XFE255404	Silver	30,900	$10,995	http://x-img.autorevo.com/2015-honda-civic-naugatuck-ct-6138768/1656248-0-medium.jpg
+6145228	Honda	Civic	Si	2HGFG4A53FH706988	Black	18,300	$16,995	http://x-img.autorevo.com/2015-honda-civic-naugatuck-ct-6145228/1662778-0-medium.jpg
+6168234	Honda	Civic	LX	2HGFB2F59CH578201	Gray	26,800	$9,495	http://x-img.autorevo.com/2012-honda-civic-naugatuck-ct-6168234/1686688-0-medium.jpg
+6168239	Honda	Civic	LX	19XFB2F50CE376521	Burgundy	40,200	$8,995	http://x-img.autorevo.com/2012-honda-civic-naugatuck-ct-6168239/1686702-0-medium.jpg
+6156840	Honda	CR-V	EX	2HKRM4H55EH640721	Silver	23,000	$15,995	http://x-img.autorevo.com/2014-honda-cr-v-naugatuck-ct-6156840/1674601-0-medium.jpg
+6168048	Honda	CR-V	EX	2HKRM4H56EH604424	Blue	26,300	$15,995	http://x-img.autorevo.com/2014-honda-cr-v-naugatuck-ct-6168048/1686352-0-medium.jpg
+6115025	Honda	CR-V	EX	2HKRM4H5XEH624742	Gray	28,000	$16,995	http://x-img.autorevo.com/2014-honda-cr-v-naugatuck-ct-6115025/1636668-0-medium.jpg
+6168045	Honda	CR-V	EX-L	5J6RM4H73EL107080	Burgundy	37,600	$17,495	http://x-img.autorevo.com/2014-honda-cr-v-naugatuck-ct-6168045/1686351-0-medium.jpg
+6168044	Honda	CR-V	LX	2HKRM4H38EH694769	Gray	18,700	$15,495	http://x-img.autorevo.com/2014-honda-cr-v-naugatuck-ct-6168044/1686350-0-medium.jpg
+6161856	Honda	CR-V	LX	2HKRM4H35EH681154	Black	22,800	$14,995	http://x-img.autorevo.com/2014-honda-cr-v-naugatuck-ct-6161856/1679816-0-medium.jpg
+6115020	Honda	CR-V	LX	5J6RM4H39EL038831	Gray	25,200	$14,995	http://x-img.autorevo.com/2014-honda-cr-v-naugatuck-ct-6115020/1669328-0-medium.jpg
+6168043	Honda	CR-V	LX	5J6RM4H38EL041459	Silver	25,500	$14,995	http://x-img.autorevo.com/2014-honda-cr-v-naugatuck-ct-6168043/1686349-0-medium.jpg
+6162518	Honda	CR-V	LX	2HKRM4H36EH650706	Black	64,200	$12,995	http://x-img.autorevo.com/2014-honda-cr-v-naugatuck-ct-6162518/1680349-0-medium.jpg
+6162747	Honda	CR-V	EX	5J6RE4H59BL049094	Gray	77,400	$11,495	http://x-img.autorevo.com/2011-honda-cr-v-naugatuck-ct-6162747/1680785-0-medium.jpg
+6120120	Honda	Fit	LX	JHMGK5H55GX001862	Silver	30,300	$11,795	http://x-img.autorevo.com/2016-honda-fit-naugatuck-ct-6120120/1637760-0-medium.jpg
+6156767	Honda	Fit	N/A	JHMGE8G39CS008684	Red	26,500	$7,995	http://x-img.autorevo.com/2012-honda-fit-naugatuck-ct-6156767/1674482-0-medium.jpg
+6138758	Honda	Odyssey	LX	5FNRL5H24GB014626	Burgundy	34,900	$19,995	http://x-img.autorevo.com/2016-honda-odyssey-naugatuck-ct-6138758/1656232-0-medium.jpg
+6161827	Honda	Odyssey	LX	5FNRL5H21EB016914	Gray	32,900	$16,495	http://x-img.autorevo.com/2014-honda-odyssey-naugatuck-ct-6161827/1680795-0-medium.jpg
+6161848	Honda	Odyssey	LX	5FNRL5H26EB017833	Gray	39,700	$16,495	http://x-img.autorevo.com/2014-honda-odyssey-naugatuck-ct-6161848/1679815-0-medium.jpg
+6168033	Honda	Odyssey	LX	5FNRL5H29EB002128	White	45,800	$15,995	http://x-img.autorevo.com/2014-honda-odyssey-naugatuck-ct-6168033/1686324-0-medium.jpg
+6145222	Honda	Odyssey	LX	5FNRL38238B050457	Tan	62,400	$7,995	http://x-img.autorevo.com/2008-honda-odyssey-naugatuck-ct-6145222/1662770-0-medium.jpg
+6090947	Honda	Pilot	Touring	5FNYF4H9XFB017460	White	43,200	$27,995	http://x-img.autorevo.com/2015-honda-pilot-naugatuck-ct-6090947/1608197-0-medium.jpg
+6168201	Honda	Pilot	LX	5FNYF4H21DB066370	Black	92,000	$14,995	http://x-img.autorevo.com/2013-honda-pilot-naugatuck-ct-6168201/1686627-0-medium.jpg
+6151166	Honda	Pilot	EX-L	5FNYF4H56CB077034	Gray	62,200	$17,995	http://x-img.autorevo.com/2012-honda-pilot-naugatuck-ct-6151166/1669102-0-medium.jpg
+6168051	Honda	Ridgeline	RTL	5FPYK1F58DB011428	White	89,300	$17,995	http://x-img.autorevo.com/2013-honda-ridgeline-naugatuck-ct-6168051/1686353-0-medium.jpg
+6157065	Honda	Ridgeline	RTL	5FPYK1F54BB454396	Black	103,600	$14,995	http://x-img.autorevo.com/2011-honda-ridgeline-naugatuck-ct-6157065/1674935-0-medium.jpg
+6162716	Honda	Ridgeline	RTL	2HJYK16508H522426	Silver	82,900	$13,995	http://x-img.autorevo.com/2008-honda-ridgeline-naugatuck-ct-6162716/1680620-0-medium.jpg
+6125644	Honda	Ridgeline	RTX	2HJYK16368H525622	Blue	71,900	$13,995	http://x-img.autorevo.com/2008-honda-ridgeline-naugatuck-ct-6125644/1643182-0-medium.jpg
+6156747	Honda	Ridgeline	RTL	2HJYK16516H543251	Silver	108,000	$9,495	http://x-img.autorevo.com/2006-honda-ridgeline-naugatuck-ct-6156747/1686835-2-medium.jpg
+6157805	Hyundai	Accent	SE	KMHCU5AE8EU151236	Blue	17,500	$9,495	http://x-img.autorevo.com/2014-hyundai-accent-5-door-naugatuck-ct-6157805/1675666-0-medium.jpg
+6114448	Hyundai	Accent	5-Door SE	KMHCT5AE1GU278562	White	9,000	$9,895	http://x-img.autorevo.com/2016-hyundai-accent-5-door-naugatuck-ct-6114448/1634394-0-medium.jpg
+6167955	Hyundai	Elantra	SE	5NPD74LFXHH101744	Silver	9,800	$13,495	http://x-img.autorevo.com/2017-hyundai-elantra-naugatuck-ct-6167955/1686207-0-medium.jpg
+6167965	Hyundai	Elantra	SE	5NPD74LF8HH071689	Red	15,000	$13,295	http://x-img.autorevo.com/2017-hyundai-elantra-naugatuck-ct-6167965/1686208-0-medium.jpg
+6157786	Hyundai	Elantra	SE	KMHDH4AE5FU234837	Red	24,600	$10,995	http://x-img.autorevo.com/2015-hyundai-elantra-naugatuck-ct-6157786/1675643-0-medium.jpg
+6161809	Hyundai	Elantra	SE	5NPDH4AE9EH466547	Black	26,800	$10,495	http://x-img.autorevo.com/2014-hyundai-elantra-naugatuck-ct-6161809/1679761-0-medium.jpg
+6157711	Hyundai	Elantra	Limited	5NPDH4AE9CH150689	Black	49,200	$8,595	http://x-img.autorevo.com/2012-hyundai-elantra-naugatuck-ct-6157711/1675520-0-medium.jpg
+3731226	Hyundai	Elantra	N/A	KMHDU46D98U284896	Burgundy	86,300	$3,995	http://x-img.autorevo.com/2008-hyundai-elantra-naugatuck-ct-3731226/1674836-0-medium.jpg
+6150391	Hyundai	Elantra	GT	KMHD35LH5GU271044	Silver	23,800	$11,495	http://x-img.autorevo.com/2016-hyundai-elantra-gt-naugatuck-ct-6150391/1668376-0-medium.jpg
+6137948	Hyundai	Elantra	GT	KMHD35LH2GU252984	Blue	39,500	$9,995	http://x-img.autorevo.com/2016-hyundai-elantra-gt-naugatuck-ct-6137948/1655622-0-medium.jpg
+6106282	Hyundai	Elantra	GT	KMHD35LH5GU304673	Black	40,600	$9,995	http://x-img.autorevo.com/2016-hyundai-elantra-gt-naugatuck-ct-6106282/1625323-0-medium.jpg
+6150215	Hyundai	Elantra	GT	KMHD35LE1DU123152	Silver	18,800	$10,995	http://x-img.autorevo.com/2013-hyundai-elantra-gt-naugatuck-ct-6150215/1668114-0-medium.jpg
+6157115	Hyundai	Entourage	Limited	KNDMC233876027433	White	95,100	$5,995	http://x-img.autorevo.com/2007-hyundai-entourage-naugatuck-ct-6157115/1675016-0-medium.jpg
+6156829	Hyundai	Genesis	3.8L	KMHGN4JE8FU050157	Gray	21,600	$25,995	http://x-img.autorevo.com/2015-hyundai-genesis-naugatuck-ct-6156829/1674566-0-medium.jpg
+6139788	Hyundai	Santa	Fe GLS	5NMSG73D37H001665	Silver	94,500	$6,995	http://x-img.autorevo.com/2007-hyundai-santa-fe-naugatuck-ct-6139788/1657326-0-medium.jpg
+6151305	Hyundai	Santa	Fe SE	5NMSH73E97H006309	Blue	71,200	$7,995	http://x-img.autorevo.com/2007-hyundai-santa-fe-naugatuck-ct-6151305/1669300-0-medium.jpg
+6168871	Hyundai	Sonata	2.4L SE	5NPE24AF2GH405252	Red	23,500	$11,995	http://x-img.autorevo.com/2016-hyundai-sonata-naugatuck-ct-6168871/1687273-0-medium.jpg
+6114267	Hyundai	Sonata	2.4L Limited	5NPE34AF6FH224442	Gray	17,100	$15,995	http://x-img.autorevo.com/2015-hyundai-sonata-naugatuck-ct-6114267/1634336-0-medium.jpg
+6138820	Hyundai	Sonata	GLS	5NPEB4ACXEH830060	Red	23,500	$10,995	http://x-img.autorevo.com/2014-hyundai-sonata-naugatuck-ct-6138820/1656300-0-medium.jpg
+6168021	Hyundai	Sonata	SE	5NPEC4AC0EH881919	White	73,800	$9,995	http://x-img.autorevo.com/2014-hyundai-sonata-naugatuck-ct-6168021/1686287-0-medium.jpg
+6138654	Hyundai	Sonata	GLS	5NPEB4AC0DH726028	Black	35,700	$8,995	http://x-img.autorevo.com/2013-hyundai-sonata-naugatuck-ct-6138654/1656113-0-medium.jpg
+6168277	Hyundai	Sonata	GLS	5NPEB4AC3CH461488	Blue	75,200	$6,995	http://x-img.autorevo.com/2012-hyundai-sonata-naugatuck-ct-6168277/1686787-0-medium.jpg
+6138816	Hyundai	Sonata	Hybrid	KMHEC4A43EA113492	Black	44,600	$12,995	http://x-img.autorevo.com/2014-hyundai-sonata-hybrid-naugatuck-ct-6138816/1656296-0-medium.jpg
+6102996	Hyundai	Tucson	GL	KM8JT3AB5BU240634	Gray	95,800	$7,595	http://x-img.autorevo.com/2011-hyundai-tucson-naugatuck-ct-6102996/1621069-0-medium.jpg
+6168850	Hyundai	Tucson	Limited	KM8JN12BX8U870669	Desert Sag	76,400	$7,495	http://x-img.autorevo.com/2008-hyundai-tucson-naugatuck-ct-6168850/1687224-1-medium.jpg
+6092460	Hyundai	Veloster	N/A	KMHTC6AD8GU269046	Silver	25,500	$10,995	http://x-img.autorevo.com/2016-hyundai-veloster-naugatuck-ct-6092460/1609486-0-medium.jpg
+6150175	Hyundai	Veloster	N/A	KMHTC6AD1DU111336	Black	60,300	$8,995	http://x-img.autorevo.com/2013-hyundai-veloster-naugatuck-ct-6150175/1668113-0-medium.jpg
+6133254	Hyundai	Veracruz	Limited	KM8NUDCC5AU109096	Blue	105,100	$8,995	http://x-img.autorevo.com/2010-hyundai-veracruz-naugatuck-ct-6133254/1650384-0-medium.jpg
+6127162	Infiniti	G35x	N/A	JNKCV51FX6M606839	Blue	71,200	$8,495	http://x-img.autorevo.com/2006-infiniti-g35-naugatuck-ct-6127162/1643998-0-medium.jpg
+6120920	Infiniti	G37	Coupe x	JN1CV6EL2DM982751	Gray	77,100	$16,995	http://x-img.autorevo.com/2013-infiniti-g37-coupe-naugatuck-ct-6120920/1638567-0-medium.jpg
+6103069	Infiniti	JX35	N/A	5N1AL0MM8DC329392	Green	33,900	$22,495	http://x-img.autorevo.com/2013-infiniti-jx35-naugatuck-ct-6103069/1621181-0-medium.jpg
+6139805	Jeep	Cherokee	Latitude	1C4PJLCB3GW216362	White	28,700	$15,995	http://x-img.autorevo.com/2016-jeep-cherokee-naugatuck-ct-6139805/1657363-0-medium.jpg
+6133015	Jeep	Cherokee	Latitude	1C4PJMCS7FW552570	Blue	45,700	$16,995	http://x-img.autorevo.com/2015-jeep-cherokee-naugatuck-ct-6133015/1650078-0-medium.jpg
+6150438	Jeep	Cherokee	Latitude	1C4PJMCBXFW623079	Tan	57,300	$14,495	http://x-img.autorevo.com/2015-jeep-cherokee-naugatuck-ct-6150438/1668504-0-medium.jpg
+6162439	Jeep	Cherokee	Latitude	1C4PJMCSXFW614995	Gray	88,300	$12,995	http://x-img.autorevo.com/2015-jeep-cherokee-naugatuck-ct-6162439/1680219-0-medium.jpg
+6138813	Jeep	Cherokee	Latitude	1C4PJMCB0EW141056	White	19,500	$15,995	http://x-img.autorevo.com/2014-jeep-cherokee-naugatuck-ct-6138813/1656298-0-medium.jpg
+6168011	Jeep	Cherokee	Latitude	1C4PJMCB1EW220381	Blue	19,800	$15,995	http://x-img.autorevo.com/2014-jeep-cherokee-naugatuck-ct-6168011/1686267-0-medium.jpg
+6138745	Jeep	Cherokee	Latitude	1C4PJMCS5EW226734	Black	27,400	$15,995	http://x-img.autorevo.com/2014-jeep-cherokee-naugatuck-ct-6138745/1656210-0-medium.jpg
+6149793	Jeep	Cherokee	Latitude	1C4PJMCS2EW147652	Gray	27,900	$15,995	http://x-img.autorevo.com/2014-jeep-cherokee-naugatuck-ct-6149793/1667958-0-medium.jpg
+6150524	Jeep	Cherokee	Latitude	1C4PJMCB1EW240484	Gray	43,500	$14,495	http://x-img.autorevo.com/2014-jeep-cherokee-naugatuck-ct-6150524/1668588-0-medium.jpg
+6108464	Jeep	Cherokee	Limited	1C4PJMDB7EW158841	Gray	31,100	$18,495	http://x-img.autorevo.com/2014-jeep-cherokee-naugatuck-ct-6108464/1626975-0-medium.jpg
+6101300	Jeep	Cherokee	Sport	1C4PJLAB1EW148837	Blue	25,400	$13,995	http://x-img.autorevo.com/2014-jeep-cherokee-naugatuck-ct-6101300/1621138-0-medium.jpg
+6120191	Jeep	Compass	Latitude	1C4NJCEA3FD138249	Silver	44,900	$12,495	http://x-img.autorevo.com/2015-jeep-compass-naugatuck-ct-6120191/1637875-0-medium.jpg
+6150520	Jeep	Compass	Limited	1C4NJDCB9ED731095	Black	23,600	$15,995	http://x-img.autorevo.com/2014-jeep-compass-naugatuck-ct-6150520/1668587-0-medium.jpg
+6138806	Jeep	Compass	Limited	1C4NJDCB5ED784702	Black	32,500	$15,495	http://x-img.autorevo.com/2014-jeep-compass-naugatuck-ct-6138806/1656280-0-medium.jpg
+6120790	Jeep	Compass	Sport	1C4NJDBB9ED512994	Blue	31,900	$12,895	http://x-img.autorevo.com/2014-jeep-compass-naugatuck-ct-6120790/1638359-0-medium.jpg
+6086207	Jeep	Compass	Limited	1J4NF5FB5BD275329	Gray	70,800	$10,995	http://x-img.autorevo.com/2011-jeep-compass-naugatuck-ct-6086207/1603488-0-medium.jpg
+6162418	Jeep	Grand	Cherokee Limited	1C4RJFBGXGC385951	Red	24,400	$29,995	http://x-img.autorevo.com/2016-jeep-grand-cherokee-naugatuck-ct-6162418/1680218-0-medium.jpg
+6133887	Jeep	Grand	Cherokee Laredo	1C4RJFAG0FC828527	Blue	23,600	$21,995	http://x-img.autorevo.com/2015-jeep-grand-cherokee-naugatuck-ct-6133887/1662926-0-medium.jpg
+6150516	Jeep	Grand	Cherokee Laredo	1C4RJFAG3EC457684	White	71,000	$17,495	http://x-img.autorevo.com/2014-jeep-grand-cherokee-naugatuck-ct-6150516/1668589-0-medium.jpg
+6133043	Jeep	Grand	Cherokee Limited	1C4RJFBG8EC153457	Red	36,700	$21,995	http://x-img.autorevo.com/2014-jeep-grand-cherokee-naugatuck-ct-6133043/1650084-0-medium.jpg
+6150501	Jeep	Grand	Cherokee Overland	1C4RJFCT1EC105195	White	30,300	$27,995	http://x-img.autorevo.com/2014-jeep-grand-cherokee-naugatuck-ct-6150501/1668555-0-medium.jpg
+6162514	Jeep	Grand	Cherokee SRT	1C4RJFDJ3EC487985	Gray	38,900	$41,995	http://x-img.autorevo.com/2014-jeep-grand-cherokee-naugatuck-ct-6162514/1680348-0-medium.jpg
+6139825	Jeep	Grand	Cherokee Laredo	1C4RJFAG4DC633057	Gray	68,100	$15,995	http://x-img.autorevo.com/2013-jeep-grand-cherokee-naugatuck-ct-6139825/1657395-0-medium.jpg
+6127016	Jeep	Grand	Cherokee Laredo	1C4RJFAG0CC165973	Blue	40,600	$16,995	http://x-img.autorevo.com/2012-jeep-grand-cherokee-naugatuck-ct-6127016/1643808-0-medium.jpg
+6144142	Jeep	Grand	Cherokee Limited	1C4RJFBT6CC233673	Gray	69,400	$18,995	http://x-img.autorevo.com/2012-jeep-grand-cherokee-naugatuck-ct-6144142/1674864-0-medium.jpg
+6150220	Jeep	Grand	Cherokee Limited	1C4RJFBG4CC174660	Blue	92,800	$16,495	http://x-img.autorevo.com/2012-jeep-grand-cherokee-naugatuck-ct-6150220/1668115-0-medium.jpg
+6162640	Jeep	Grand	Cherokee Laredo	1J4RR4GT1BC609369	Gray	105,300	$13,495	http://x-img.autorevo.com/2011-jeep-grand-cherokee-naugatuck-ct-6162640/1680539-0-medium.jpg
+6163341	Jeep	Grand	Cherokee Limited	1J4RR5GG8BC604730	White	74,200	$16,995	http://x-img.autorevo.com/2011-jeep-grand-cherokee-naugatuck-ct-6163341/1681131-0-medium.jpg
+6151216	Jeep	Grand	Cherokee Limited	1J4RR5GT9AC111425	Black	121,400	$11,995	http://x-img.autorevo.com/2010-jeep-grand-cherokee-naugatuck-ct-6151216/1669187-0-medium.jpg
+6167938	Jeep	Liberty	Sport	1C4PJMAK1CW150896	White	90,300	$8,995	http://x-img.autorevo.com/2012-jeep-liberty-naugatuck-ct-6167938/1686306-0-medium.jpg
+6127012	Jeep	Liberty	Sport	1C4PJMAK0CW122622	Gray	102,100	$7,995	http://x-img.autorevo.com/2012-jeep-liberty-naugatuck-ct-6127012/1643806-0-medium.jpg
+6151136	Jeep	Liberty	Sport Latitude	1C4PJMAK0CW199846	Blue	55,600	$11,995	http://x-img.autorevo.com/2012-jeep-liberty-naugatuck-ct-6151136/1669034-0-medium.jpg
+6161898	Jeep	Liberty	Sport	1J4PN2GKXBW575381	Black	53,700	$10,995	http://x-img.autorevo.com/2011-jeep-liberty-naugatuck-ct-6161898/1679855-0-medium.jpg
+6125641	Jeep	Liberty	Sport	1J4PN2GK3BW577201	Gray	94,900	$8,995	http://x-img.autorevo.com/2011-jeep-liberty-naugatuck-ct-6125641/1643180-0-medium.jpg
+6133227	Jeep	Liberty	Sport	1J4PN2GK2AW178505	Silver	56,100	$9,995	http://x-img.autorevo.com/2010-jeep-liberty-naugatuck-ct-6133227/1650336-0-medium.jpg
+6151212	Jeep	Liberty	Sport	1J4PN2GK6AW136998	Black	71,100	$8,995	http://x-img.autorevo.com/2010-jeep-liberty-naugatuck-ct-6151212/1681279-0-medium.jpg
+6151437	Jeep	Liberty	Sport	1J8GN28K28W240525	Silver	95,500	$6,895	http://x-img.autorevo.com/2008-jeep-liberty-naugatuck-ct-6151437/1669543-0-medium.jpg
+6114444	Jeep	Patriot	Sport	1C4NJPBA5GD568037	White	28,100	$11,995	http://x-img.autorevo.com/2016-jeep-patriot-naugatuck-ct-6114444/1634396-0-medium.jpg
+6120785	Jeep	Patriot	Latitude	1C4NJRFB2ED538148	Blue	36,800	$12,495	http://x-img.autorevo.com/2014-jeep-patriot-naugatuck-ct-6120785/1638353-0-medium.jpg
+6150238	Jeep	Patriot	Limited	1J4FF48B69D153343	Tan	71,900	$7,995	http://x-img.autorevo.com/2009-jeep-patriot-naugatuck-ct-6150238/1686833-0-medium.jpg
+6167981	Jeep	Renegade	Latitude	ZACCJBBT6GPD88062	Tan	12,100	$16,995	http://x-img.autorevo.com/2016-jeep-renegade-naugatuck-ct-6167981/1686210-0-medium.jpg
+6161769	Jeep	Renegade	Latitude	ZACCJABH7FPB51844	White	15,100	$13,995	http://x-img.autorevo.com/2015-jeep-renegade-naugatuck-ct-6161769/1679679-0-medium.jpg
+6156757	Jeep	Wrangler	Rubicon	1C4BJWCG4DL694116	Black	101,900	$18,995	http://x-img.autorevo.com/2013-jeep-wrangler-naugatuck-ct-6156757/1674479-0-medium.jpg
+6156615	Jeep	Wrangler	Sport	1C4AJWAG5DL671149	Dune	35,900	$19,995	http://x-img.autorevo.com/2013-jeep-wrangler-naugatuck-ct-6156615/1680799-0-medium.jpg
+6168924	Jeep	Wrangler	Sport	1J4AA2D10AL230311	Silver	80,900	$14,695	http://x-img.autorevo.com/2010-jeep-wrangler-naugatuck-ct-6168924/1687321-0-medium.jpg
+6106262	Jeep	Wrangler	Unlimited Sport	1C4BJWDG5DL685830	Brown	102,500	$17,995	http://x-img.autorevo.com/2013-jeep-wrangler-unlimited-naugatuck-ct-6106262/1626218-0-medium.jpg
+6144218	Jeep	Wrangler	Unlimited Sahara	1J4GA591X9L789591	Black	53,900	$19,495	http://x-img.autorevo.com/2009-jeep-wrangler-unlimited-naugatuck-ct-6144218/1661802-0-medium.jpg
+6168907	Jeep	Wrangler	Unlimited X	1J4GA39129L740731	Black	94,800	$15,995	http://x-img.autorevo.com/2009-jeep-wrangler-unlimited-naugatuck-ct-6168907/1687301-0-medium.jpg
+6103064	Kia	Forte	LX	KNAFK4A66G5569783	Silver	4,700	$10,495	http://x-img.autorevo.com/2016-kia-forte-naugatuck-ct-6103064/1621213-0-medium.jpg
+6077346	Kia	Forte	LX	KNAFK4A6XG5499737	Silver	8,900	$9,995	http://x-img.autorevo.com/2016-kia-forte-naugatuck-ct-6077346/1594890-0-medium.jpg
+6107684	Kia	Forte	Koup SX	KNAFW6A30A5306279	Blue	97,500	$5,995	http://x-img.autorevo.com/2010-kia-forte-koup-naugatuck-ct-6107684/1626357-0-medium.jpg
+6125449	Kia	Optima	LX	5XXGM4A73FG494271	Gray	22,400	$11,995	http://x-img.autorevo.com/2015-kia-optima-naugatuck-ct-6125449/1642973-0-medium.jpg
+6150481	Kia	Optima	SX	5XXGR4A76EG302504	Black	25,300	$15,995	http://x-img.autorevo.com/2014-kia-optima-naugatuck-ct-6150481/1668538-0-medium.jpg
+6157802	Kia	Optima	SX Turbo	5XXGR4A68EG263227	Gray	33,000	$15,595	http://x-img.autorevo.com/2014-kia-optima-naugatuck-ct-6157802/1675668-0-medium.jpg
+6168188	Kia	Optima	EX	5XXGN4A70DG156045	Red	50,200	$10,995	http://x-img.autorevo.com/2013-kia-optima-naugatuck-ct-6168188/1686566-0-medium.jpg
+6118001	Kia	Sedona	LX	KNDMG4C35A6355836	Black	50,400	$6,995	http://x-img.autorevo.com/2010-kia-sedona-naugatuck-ct-6118001/1657412-0-medium.jpg
+4668482	Kia	Sorento	EX	KNDJC733665508852	Black	117,500	$4,495	http://x-img.autorevo.com/2006-kia-sorento-naugatuck-ct-4668482/1687142-0-medium.jpg
+6155999	Kia	Soul	N/A	KNDJN2A23E7707402	Green	14,800	$7,595	http://x-img.autorevo.com/2014-kia-soul-naugatuck-ct-6155999/1673829-0-medium.jpg
+6162510	Kia	Soul	N/A	KNDJN2A27E7738863	Green	43,400	$8,995	http://x-img.autorevo.com/2014-kia-soul-naugatuck-ct-6162510/1680347-0-medium.jpg
+6138752	Kia	Sportage	LX	KNDPMCAC0H7114211	Gray	13,300	$16,995	http://x-img.autorevo.com/2017-kia-sportage-naugatuck-ct-6138752/1656220-0-medium.jpg
+6157792	Kia	Sportage	LX	KNDPBCACXE7564594	Blue	30,900	$13,995	http://x-img.autorevo.com/2014-kia-sportage-naugatuck-ct-6157792/1675658-0-medium.jpg
+6157790	Kia	Sportage	LX	KNDPBCAC7E7581451	Green	46,200	$12,795	http://x-img.autorevo.com/2014-kia-sportage-naugatuck-ct-6157790/1675656-0-medium.jpg
+6168286	Land	Rover	Range Rover Sport HSE	SALSF25479A201750	Silver	91,200	$15,495	http://x-img.autorevo.com/2009-land-rover-range-rover-sport-naugatuck-ct-6168286/1686790-0-medium.jpg
+6139011	Lexus	GS	350	JTHCE1KS2B0028998	Gray	62,900	$16,995	http://x-img.autorevo.com/2011-lexus-gs-350-naugatuck-ct-6139011/1656585-0-medium.jpg
+6117895	Lexus	GS	350	JTHCE96S290023805	Gray	81,400	$13,995	http://x-img.autorevo.com/2009-lexus-gs-350-naugatuck-ct-6117895/1634906-0-medium.jpg
+6168824	Lexus	GS	350	JTHCE96S570012973	Blue	80,200	$11,595	http://x-img.autorevo.com/2007-lexus-gs-350-naugatuck-ct-6168824/1687204-0-medium.jpg
+6126975	Lexus	GX	460	JTJBM7FX2D5050625	Black	93,100	$24,995	http://x-img.autorevo.com/2013-lexus-gx-460-naugatuck-ct-6126975/1643780-0-medium.jpg
+6157064	Lexus	GX	460	JTJBM7FX4B5023424	Black	85,800	$22,595	http://x-img.autorevo.com/2011-lexus-gx-460-naugatuck-ct-6157064/1674933-0-medium.jpg
+6157084	Lexus	GX	460	JTJBM7FX0A5011639	Silver	101,500	$19,895	http://x-img.autorevo.com/2010-lexus-gx-460-naugatuck-ct-6157084/1674970-0-medium.jpg
+6133278	Lexus	GX	470	JTJBT20X570132994	Black	114,100	$12,995	http://x-img.autorevo.com/2007-lexus-gx-470-naugatuck-ct-6133278/1650405-0-medium.jpg
+6133909	Lexus	IS	250	JTHCF1D21E5013393	Black	26,900	$21,995	http://x-img.autorevo.com/2014-lexus-is-250-awd-naugatuck-ct-6133909/1650898-0-medium.jpg
+6051919	Lexus	LS	460	JTHCL5EF7C5014126	Silver	83,700	$20,995	http://x-img.autorevo.com/2012-lexus-ls-460-naugatuck-ct-6051919/1573144-0-medium.jpg
+6127145	Lexus	LS	460	JTHBL46F285079395	Silver	84,700	$14,995	http://x-img.autorevo.com/2008-lexus-ls-460-naugatuck-ct-6127145/1643971-0-medium.jpg
+6163394	Lexus	LX	470	JTJHT00W143542711	Gray	133,300	$12,995	http://x-img.autorevo.com/2004-lexus-lx-470-naugatuck-ct-6163394/1681217-0-medium.jpg
+6157648	Lexus	RX	330	2T2HA31U46C104245	Tan	65,500	$10,495	http://x-img.autorevo.com/2006-lexus-rx-330-naugatuck-ct-6157648/1675454-0-medium.jpg
+6163416	Lexus	RX	330	2T2HA31U26C093634	Blue	129,400	$7,495	http://x-img.autorevo.com/2006-lexus-rx-330-naugatuck-ct-6163416/1681254-0-medium.jpg
+6107558	Lexus	RX	350	2T2BK1BA0DC168730	Black	67,700	$21,995	http://x-img.autorevo.com/2013-lexus-rx-350-naugatuck-ct-6107558/1626072-0-medium.jpg
+6151261	Lexus	RX	350	2T2HK31U18C067820	Tan	108,900	$9,995	http://x-img.autorevo.com/2008-lexus-rx-350-naugatuck-ct-6151261/1669259-0-medium.jpg
+6132946	Lincoln	MKC	N/A	5LMTJ2AHXFUJ36835	Black	11,600	$24,495	http://x-img.autorevo.com/2015-lincoln-mkc-naugatuck-ct-6132946/1649963-0-medium.jpg
+6046983	Lincoln	MKS	N/A	1LNHL9DR9AG612418	Black	33,200	$9,995	http://x-img.autorevo.com/2010-lincoln-mks-naugatuck-ct-6046983/1569227-0-medium.jpg
+6168010	Lincoln	MKX	N/A	2LMDJ8JK7EBL02209	Red	75,200	$19,995	http://x-img.autorevo.com/2014-lincoln-mkx-naugatuck-ct-6168010/1686265-0-medium.jpg
+6108458	Lincoln	MKZ	N/A	3LN6L2J96GR604118	Gray	39,900	$21,995	http://x-img.autorevo.com/2016-lincoln-mkz-naugatuck-ct-6108458/1626969-0-medium.jpg
+6162720	Lincoln	MKZ	N/A	3LN6L2J9XER802231	Silver	36,200	$16,595	http://x-img.autorevo.com/2014-lincoln-mkz-naugatuck-ct-6162720/1680629-0-medium.jpg
+6115190	Lincoln	MKZ	N/A	3LN6L2JK3DR804758	Black	43,500	$16,495	http://x-img.autorevo.com/2013-lincoln-mkz-naugatuck-ct-6115190/1634375-0-medium.jpg
+6053034	Lincoln	MKZ	Hybrid	3LNDL2L33CR805372	Black	79,300	$9,995	http://x-img.autorevo.com/2012-lincoln-mkz-naugatuck-ct-6053034/1656757-0-medium.jpg
+6151237	Lincoln	MKZ	N/A	3LNHM28T59R633278	Black	92,700	$6,995	http://x-img.autorevo.com/2009-lincoln-mkz-naugatuck-ct-6151237/1669221-0-medium.jpg
+6162113	Lincoln	MKZ	N/A	3LNHM26T77R622847	Black	72,800	$6,495	http://x-img.autorevo.com/2007-lincoln-mkz-naugatuck-ct-6162113/1680015-0-medium.jpg
+6162559	Lincoln	MKZ	N/A	3LNHL2JC7CR821935	Gray	26,700	$11,995	http://x-img.autorevo.com/2012-lincoln-mkz-naugatuck-ct-6162559/1680412-0-medium.jpg
+6144581	Mazda	CX-5	Sport	JM3KE2BE2E0301821	Gray	35,400	$13,995	http://x-img.autorevo.com/2014-mazda-cx-5-naugatuck-ct-6144581/1662281-0-medium.jpg
+6168885	Mazda	CX-5	Sport	JM3KE2BE4E0356870	Gray	42,600	$12,995	http://x-img.autorevo.com/2014-mazda-cx-5-naugatuck-ct-6168885/1687276-0-medium.jpg
+6052130	Mazda	CX-7	Grand Touring	JM3ER29L080212159	Burgundy	65,500	$6,995	http://x-img.autorevo.com/2008-mazda-cx-7-naugatuck-ct-6052130/1680604-0-medium.jpg
+6155966	Mazda	Mazda3	i Touring	3MZBM1L7XFM149126	Gray	55,600	$11,995	http://x-img.autorevo.com/2015-mazda-mazda3-naugatuck-ct-6155966/1673780-0-medium.jpg
+6161876	Mazda	Mazda3	i Sport	JM1BL1UP4D1849156	Black	29,200	$9,995	http://x-img.autorevo.com/2013-mazda-mazda3-naugatuck-ct-6161876/1679840-0-medium.jpg
+6138959	Mazda	Mazda3	i Sport	JM1BL1U78D1761078	Gray	76,100	$6,995	http://x-img.autorevo.com/2013-mazda-mazda3-naugatuck-ct-6138959/1656541-0-medium.jpg
+6162816	Mazda	Mazda3	i SV	JM1BL1TG1D1835474	Black	42,600	$8,995	http://x-img.autorevo.com/2013-mazda-mazda3-naugatuck-ct-6162816/1680842-0-medium.jpg
+6125633	Mazda	Mazda3	i Touring	JM1BL1L89C1641878	Gray	40,600	$8,995	http://x-img.autorevo.com/2012-mazda-mazda3-naugatuck-ct-6125633/1669208-0-medium.jpg
+6133220	Mazda	Mazda3	s Sport	JM1BL1H66A1304234	Black	59,100	$6,995	http://x-img.autorevo.com/2010-mazda-mazda3-naugatuck-ct-6133220/1650326-0-medium.jpg
+5834840	Mercedes-Benz	AMG	E63 S	WDDHH7GB6GB188930	Blue	19,200	$79,995	http://x-img.autorevo.com/2016-mercedes-benz-amg-e63-naugatuck-ct-5834840/1355219-0-medium.jpg
+6119980	Mercedes-Benz	AMG	S63	WDDUG7JB8GA242034	Black	9,000	$106,995	http://x-img.autorevo.com/2016-mercedes-benz-amg-s63-naugatuck-ct-6119980/1643360-0-medium.jpg
+6132966	Mercedes-Benz	C250	N/A	WDDGJ4HB8CF897147	Gray	41,900	$14,995	http://x-img.autorevo.com/2012-mercedes-benz-c250-naugatuck-ct-6132966/1650005-0-medium.jpg
+6151194	Mercedes-Benz	C300	4Matic	WDDGF8BB6BR147843	Black	56,400	$13,495	http://x-img.autorevo.com/2011-mercedes-benz-c300-4matic-naugatuck-ct-6151194/1669156-0-medium.jpg
+6045105	Mercedes-Benz	C300	4Matic	WDDGF8BB8AF442832	Gray	91,900	$8,995	http://x-img.autorevo.com/2010-mercedes-benz-c300-4matic-naugatuck-ct-6045105/1567716-0-medium.jpg
+6120098	Mercedes-Benz	C300	4Matic	55SWF4KB8GU112909	Gray	9,800	$30,895	http://x-img.autorevo.com/2016-mercedes-benz-c300-4matic-naugatuck-ct-6120098/1637759-0-medium.jpg
+6150245	Mercedes-Benz	C350	N/A	WDDGF56X78F006911	Silver	55,500	$12,995	http://x-img.autorevo.com/2008-mercedes-benz-c350-naugatuck-ct-6150245/1668139-0-medium.jpg
+6132932	Mercedes-Benz	C63	AMG	WDDGF7HB0AF452059	Silver	117,600	$19,995	http://x-img.autorevo.com/2010-mercedes-benz-c63-naugatuck-ct-6132932/1649932-0-medium.jpg
+6150565	Mercedes-Benz	E350	4Matic	WDDKJ8JB5DF216889	Black	47,800	$22,995	http://x-img.autorevo.com/2013-mercedes-benz-e350-4matic-naugatuck-ct-6150565/1668678-0-medium.jpg
+6086204	Mercedes-Benz	E350	N/A	WDDKJ5GBXBF082111	Black	59,900	$16,695	http://x-img.autorevo.com/2011-mercedes-benz-e350-naugatuck-ct-6086204/1603479-0-medium.jpg
+6156713	Mercedes-Benz	E350	Cabriolet	WDDKK5GF1BF085981	Black	106,300	$14,995	http://x-img.autorevo.com/2011-mercedes-benz-e350-naugatuck-ct-6156713/1674387-0-medium.jpg
+6101268	Mercedes-Benz	E350	4Matic Luxury	WDDHF8JB4EB073146	Gray	38,600	$22,995	http://x-img.autorevo.com/2014-mercedes-benz-e350-naugatuck-ct-6101268/1621174-0-medium.jpg
+6163402	Mercedes-Benz	E500	4Matic	WDBUF83JX6X189354	Blue	75,000	$8,995	http://x-img.autorevo.com/2006-mercedes-benz-e500-4matic-naugatuck-ct-6163402/1681238-0-medium.jpg
+6086260	Mercedes-Benz	E500	4Matic	WDBUF83J45X174069	White	83,900	$6,995	http://x-img.autorevo.com/2005-mercedes-benz-e500-naugatuck-ct-6086260/1603548-0-medium.jpg
+6065119	Mercedes-Benz	E550	4Matic	WDDHF9BB8DA719071	Black	94,500	$19,995	http://x-img.autorevo.com/2013-mercedes-benz-e550-4matic-naugatuck-ct-6065119/1582820-0-medium.jpg
+6156708	Mercedes-Benz	E550	4Matic	WDDHF9AB6BA305740	Black	86,500	$17,995	http://x-img.autorevo.com/2011-mercedes-benz-e550-4matic-naugatuck-ct-6156708/1674377-0-medium.jpg
+6076763	Mercedes-Benz	E63	AMG S-Model	WDDHF7GB2EA965452	Red	29,500	$67,995	http://x-img.autorevo.com/2014-mercedes-benz-e63-naugatuck-ct-6076763/1594514-0-medium.jpg
+6091749	Mercedes-Benz	GL450	4Matic	4JGDF7CE2DA184871	Silver	90,900	$26,995	http://x-img.autorevo.com/2013-mercedes-benz-gl450-4matic-naugatuck-ct-6091749/1608981-0-medium.jpg
+5806945	Mercedes-Benz	GL450	4Matic	4JGBF71E17A135045	Silver	94,400	$11,995	http://x-img.autorevo.com/2007-mercedes-benz-gl450-4matic-naugatuck-ct-5806945/1637653-0-medium.jpg
+6162112	Mercedes-Benz	GL550	4Matic	4JGBF86E28A340132	Blue	92,100	$16,995	http://x-img.autorevo.com/2008-mercedes-benz-gl550-4matic-naugatuck-ct-6162112/1680014-0-medium.jpg
+6106259	Mercedes-Benz	GL550	Matic	4JGDF7DE8DA165238	Gray	79,900	$36,995	http://x-img.autorevo.com/2013-mercedes-benz-gl550-matic-naugatuck-ct-6106259/1626215-0-medium.jpg
+6157094	Mercedes-Benz	ML350	4Matic	4JGBB86E28A381386	Silver	84,800	$10,995	http://x-img.autorevo.com/2008-mercedes-benz-ml350-4matic-naugatuck-ct-6157094/1674983-0-medium.jpg
+6163391	Mercedes-Benz	ML350	4Matic	4JGBB86E38A372857	Black	89,400	$10,995	http://x-img.autorevo.com/2008-mercedes-benz-ml350-4matic-naugatuck-ct-6163391/1681212-0-medium.jpg
+6168831	Mercedes-Benz	ML350	4Matic	4JGBB86E27A247413	Black	58,100	$11,995	http://x-img.autorevo.com/2007-mercedes-benz-ml350-naugatuck-ct-6168831/1687209-0-medium.jpg
+6168916	Mercedes-Benz	ML350	4Matic	4JGBB86E26A020298	Tan	72,200	$9,995	http://x-img.autorevo.com/2006-mercedes-benz-ml350-4matic-naugatuck-ct-6168916/1687309-0-medium.jpg
+6086305	Mercedes-Benz	S550	4Matic	WDDNG86X17A101921	Gray	46,300	$17,995	http://x-img.autorevo.com/2007-mercedes-benz-s550-naugatuck-ct-6086305/1603660-0-medium.jpg
+6097548	Mercedes-Benz	S550	4Matic	WDDUG8FB2FA138331	Black	84,900	$45,995	http://x-img.autorevo.com/2015-mercedes-benz-s550-4matic-naugatuck-ct-6097548/1615198-0-medium.jpg
+6119754	Mercedes-Benz	S550	4Matic 5.5L V8	WDDNG86X58A180706	Silver	78,800	$17,995	http://x-img.autorevo.com/2008-mercedes-benz-s550-4matic-naugatuck-ct-6119754/1637207-0-medium.jpg
+6139799	Mercedes-Benz	SL500	N/A	WDBSK75F85F092938	Blue	67,600	$12,995	http://x-img.autorevo.com/2005-mercedes-benz-sl500-naugatuck-ct-6139799/1657353-0-medium.jpg
+4628251	Mercedes-Benz	SL55	AMG	WDBSK72F18F140613	Black	76,700	$23,495	http://x-img.autorevo.com/2008-mercedes-benz-sl55-naugatuck-ct-4628251/1643349-0-medium.jpg
+6132811	Mercedes-Benz	Sprinter	2500 Passenger	WDZPE7CC8D5790543	Black	132,900	$19,995	http://x-img.autorevo.com/2013-mercedes-benz-sprinter-crew-vans-naugatuck-ct-6132811/1649919-0-medium.jpg
+6108416	Mini	Clubman	S	WMWZG3C53CTY31794	Black	79,600	$8,995	http://x-img.autorevo.com/2012-mini-clubman-naugatuck-ct-6108416/1626893-0-medium.jpg
+6168812	Mini	Convertible	N/A	WMWRF334X5TG10161	Orange	52,700	$5,995	http://x-img.autorevo.com/2005-mini-convertible-naugatuck-ct-6168812/1687194-0-medium.jpg
+6151263	Mini	Hardtop	N/A	WMWRC33596TK70064	Red	49,200	$6,995	http://x-img.autorevo.com/2006-mini-hardtop-naugatuck-ct-6151263/1669244-0-medium.jpg
+6151189	Mitsubishi	Endeavor	LS	4A4JN2AS5BE031549	Silver	81,100	$7,995	http://x-img.autorevo.com/2011-mitsubishi-endeavor-naugatuck-ct-6151189/1669155-0-medium.jpg
+6168195	Mitsubishi	Mirage	DE	ML32A3HJ4EH025418	Black	24,200	$5,995	http://x-img.autorevo.com/2014-mitsubishi-mirage-naugatuck-ct-6168195/1686624-0-medium.jpg
+6168230	Mitsubishi	Outlander	Sport SE	JA4AR4AU0CZ003476	Black	40,700	$11,995	http://x-img.autorevo.com/2012-mitsubishi-outlander-sport-naugatuck-ct-6168230/1686687-0-medium.jpg
+6144155	Mitsubishi	Outlander	Sport ES	JA4AP3AU7BZ017633	Silver	43,700	$9,995	http://x-img.autorevo.com/2011-mitsubishi-outlander-sport-naugatuck-ct-6144155/1661800-0-medium.jpg
+6162401	Nissan	Altima	3.5 SL	1N4BL3AP2GC157525	Black	15,500	$18,995	http://x-img.autorevo.com/2016-nissan-altima-naugatuck-ct-6162401/1680217-0-medium.jpg
+6125337	Nissan	Altima	3.5 S	1N4BL3AP3EC184908	Blue	33,200	$13,995	http://x-img.autorevo.com/2014-nissan-altima-naugatuck-ct-6125337/1642797-0-medium.jpg
+6162543	Nissan	Altima	2.5 SL	1N4AL3AP8DC214740	Brown	37,800	$12,495	http://x-img.autorevo.com/2013-nissan-altima-naugatuck-ct-6162543/1680394-0-medium.jpg
+6139791	Nissan	Altima	2.5 S	1N4AL2AP2CC109071	Blue	87,800	$6,995	http://x-img.autorevo.com/2012-nissan-altima-naugatuck-ct-6139791/1657332-0-medium.jpg
+6077433	Nissan	Altima	2.5 S	1N4AL21E89N533317	Gray	55,400	$6,495	http://x-img.autorevo.com/2009-nissan-altima-naugatuck-ct-6077433/1595025-0-medium.jpg
+6150526	Nissan	Armada	SV	5N1AA0NC7FN610554	Silver	37,000	$23,995	http://x-img.autorevo.com/2015-nissan-armada-naugatuck-ct-6150526/1680796-0-medium.jpg
+6156618	Nissan	Frontier	N/A	1N6AD0EV9DN761063	Black	27,400	$18,995	http://x-img.autorevo.com/2013-nissan-frontier-naugatuck-ct-6156618/1674263-0-medium.jpg
+6162630	Nissan	Frontier	SV	1N6AD0CW0BC426861	Gray	69,700	$13,995	http://x-img.autorevo.com/2011-nissan-frontier-naugatuck-ct-6162630/1680495-0-medium.jpg
+6157788	Nissan	JUKE	SL	JN8AF5MV9ET359122	Red	21,100	$15,995	http://x-img.autorevo.com/2014-nissan-juke-naugatuck-ct-6157788/1675654-0-medium.jpg
+6157833	Nissan	LEAF	S	1N4AZ0CP4DC416422	Blue	12,100	$8,395	http://x-img.autorevo.com/2013-nissan-leaf-naugatuck-ct-6157833/1687387-0-medium.jpg
+6133963	Nissan	LEAF	SV	1N4AZ0CP6DC403266	Silver	19,700	$8,295	http://x-img.autorevo.com/2013-nissan-leaf-naugatuck-ct-6133963/1650991-0-medium.jpg
+6150161	Nissan	Murano	S	JN8AZ1MW6DW318839	Gray	39,700	$14,495	http://x-img.autorevo.com/2013-nissan-murano-naugatuck-ct-6150161/1668132-0-medium.jpg
+6162389	Nissan	Murano	SL	JN8AZ1MW3BW157363	Gray	97,200	$10,495	http://x-img.autorevo.com/2011-nissan-murano-naugatuck-ct-6162389/1680158-0-medium.jpg
+6168858	Nissan	Murano	SL	JN8AZ18W89W157928	Gray	57,300	$11,495	http://x-img.autorevo.com/2009-nissan-murano-naugatuck-ct-6168858/1687229-0-medium.jpg
+6156968	Nissan	Pathfinder	SV	5N1AR1NB7CC601351	Gray	69,900	$13,495	http://x-img.autorevo.com/2012-nissan-pathfinder-naugatuck-ct-6156968/1674845-0-medium.jpg
+5740490	Nissan	Pathfinder	SE	5N1AR18W27C601164	Tan	107,100	N/A	http://x-img.autorevo.com/2007-nissan-pathfinder-naugatuck-ct-5740490/1680816-0-medium.jpg
+6162397	Nissan	Rogue	S	5N1AT2MV6GC824215	Red	29,300	$15,995	http://x-img.autorevo.com/2016-nissan-rogue-naugatuck-ct-6162397/1680215-0-medium.jpg
+6133211	Nissan	Versa	1.8 SL	3N1BC1AP7AL371326	Silver	66,900	$5,995	http://x-img.autorevo.com/2010-nissan-versa-naugatuck-ct-6133211/1650325-0-medium.jpg
+6167997	Nissan	Versa	Note SV	3N1CE2CP5GL353207	Blue	17,600	$9,995	http://x-img.autorevo.com/2016-nissan-versa-note-naugatuck-ct-6167997/1686263-0-medium.jpg
+6163414	Pontiac	G6	GT	1G2ZH36N274118756	Silver	64,400	$6,995	http://x-img.autorevo.com/2007-pontiac-g6-naugatuck-ct-6163414/1681244-0-medium.jpg
+6150592	Porsche	Panamera	4	WP0AA2A74CL014625	Gray	44,900	$34,995	http://x-img.autorevo.com/2012-porsche-panamera-naugatuck-ct-6150592/1668747-0-medium.jpg
+6134030	Porsche	Panamera	Turbo	WP0AC2A71BL090473	Gray	84,700	$45,995	http://x-img.autorevo.com/2011-porsche-panamera-naugatuck-ct-6134030/1651088-0-medium.jpg
+6114254	Ram	1500	SLT	1C6RR7GG3FS635579	Gray	44,500	$19,995	http://x-img.autorevo.com/2015-ram-1500-naugatuck-ct-6114254/1662924-0-medium.jpg
+6168196	Ram	1500	N/A	1C6RR6FT5ES241993	White	32,100	$19,995	http://x-img.autorevo.com/2014-ram-1500-naugatuck-ct-6168196/1686626-0-medium.jpg
+6156838	Ram	1500	Laramie	1C6RR7JT9ES166681	Black Gold Pearlcoat	47,500	$26,995	http://x-img.autorevo.com/2014-ram-1500-naugatuck-ct-6156838/1674600-0-medium.jpg
+6092585	Ram	1500	SLT	1C6RR7GGXES297337	Brown	92,300	$16,995	http://x-img.autorevo.com/2014-ram-1500-naugatuck-ct-6092585/1609738-0-medium.jpg
+6145363	Scion	tC	N/A	JTKJF5C74E3077333	Red	21,300	$11,995	http://x-img.autorevo.com/2014-scion-tc-naugatuck-ct-6145363/1662974-0-medium.jpg
+6064933	Scion	tC	N/A	JTKDE167560117863	Gray	86,900	$4,995	http://x-img.autorevo.com/2006-scion-tc-naugatuck-ct-6064933/1615272-0-medium.jpg
+6168866	Scion	xB	N/A	JTLZE4FE9A1117367	Burgundy	82,800	$5,995	http://x-img.autorevo.com/2010-scion-xb-naugatuck-ct-6168866/1687242-0-medium.jpg
+6134074	Scion	xB	N/A	JTLKE50E491061866	Burgundy	49,200	$6,995	http://x-img.autorevo.com/2009-scion-xb-naugatuck-ct-6134074/1651193-0-medium.jpg
+6119835	Subaru	Baja	Turbo w/Leather Pkg	4S4BT63CX55101027	Silver	153,000	$5,995	http://x-img.autorevo.com/2005-subaru-baja-naugatuck-ct-6119835/1637319-0-medium.jpg
+6106285	Subaru	Forester	2.5i Premium	JF2SJADC8FH427504	Gray	87,700	$12,995	http://x-img.autorevo.com/2015-subaru-forester-naugatuck-ct-6106285/1625334-0-medium.jpg
+6041830	Subaru	Forester	X	JF2SH61659G736008	Red	102,100	$5,995	http://x-img.autorevo.com/2009-subaru-forester-naugatuck-ct-6041830/1563980-0-medium.jpg
+6163365	Subaru	Forester	X w/Premium Pkg	JF2SH63629H703314	Black	77,800	$9,495	http://x-img.autorevo.com/2009-subaru-forester-naugatuck-ct-6163365/1681196-0-medium.jpg
+6149686	Subaru	Impreza	N/A	JF1GJAA68EH009788	Green	22,800	$13,595	http://x-img.autorevo.com/2014-subaru-impreza-naugatuck-ct-6149686/1667887-0-medium.jpg
+6145368	Subaru	Impreza	N/A	JF1GJAA65EH006492	Silver	37,500	$12,495	http://x-img.autorevo.com/2014-subaru-impreza-naugatuck-ct-6145368/1668527-0-medium.jpg
+6149696	Subaru	Impreza	2.0i Limited	JF1GPAH65EH220094	White	38,500	$14,995	http://x-img.autorevo.com/2014-subaru-impreza-naugatuck-ct-6149696/1687389-0-medium.jpg
+6149699	Subaru	Impreza	2.0i Premium	JF1GPAC61E8236414	Green	38,500	$13,995	http://x-img.autorevo.com/2014-subaru-impreza-naugatuck-ct-6149699/1667905-0-medium.jpg
+6125299	Subaru	Impreza	2.0i Premium	JF1GPAD65E8220926	Burgundy	49,200	$13,595	http://x-img.autorevo.com/2014-subaru-impreza-naugatuck-ct-6125299/1657407-0-medium.jpg
+6150529	Subaru	Impreza	2.0i Sport Premium	JF1GPAL60E8249994	Blue	25,200	$14,995	http://x-img.autorevo.com/2014-subaru-impreza-naugatuck-ct-6150529/1668607-0-medium.jpg
+6149683	Subaru	Impreza	Premium	JF1GJAC6XEH010650	Black	28,800	$14,995	http://x-img.autorevo.com/2014-subaru-impreza-naugatuck-ct-6149683/1667884-0-medium.jpg
+6145270	Subaru	Impreza	Premium	JF1GJAC66EH007390	Gray	32,400	$13,995	http://x-img.autorevo.com/2014-subaru-impreza-naugatuck-ct-6145270/1662855-0-medium.jpg
+6103077	Subaru	Impreza	2.0i Premium	JF1GJAD64CH008906	Burgundy	65,400	$9,995	http://x-img.autorevo.com/2012-subaru-impreza-naugatuck-ct-6103077/1621215-0-medium.jpg
+6144649	Subaru	Legacy	2.5i Premium	4S3BNAF65G3030227	Tan	87,600	$13,995	http://x-img.autorevo.com/2016-subaru-legacy-naugatuck-ct-6144649/1662388-0-medium.jpg
+6145291	Subaru	Legacy	2.5i Premium	4S3BNAF62G3013224	Red	107,200	$12,795	http://x-img.autorevo.com/2016-subaru-legacy-naugatuck-ct-6145291/1662877-0-medium.jpg
+6120178	Subaru	Legacy	2.5i Premium	4S3BNAC68F3034629	Red	52,700	$13,995	http://x-img.autorevo.com/2015-subaru-legacy-naugatuck-ct-6120178/1637863-0-medium.jpg
+6149769	Subaru	Legacy	2.5i Premium	4S3BMBC67E3022219	Silver	52,100	$12,495	http://x-img.autorevo.com/2014-subaru-legacy-naugatuck-ct-6149769/1667956-0-medium.jpg
+6107165	Subaru	Legacy	2.5i Premium	4S3BMBC60E3017556	Red	63,200	$11,995	http://x-img.autorevo.com/2014-subaru-legacy-naugatuck-ct-6107165/1625656-0-medium.jpg
+6108460	Subaru	Legacy	2.5i Premium	4S3BMBC65E3017293	Black	73,200	$10,995	http://x-img.autorevo.com/2014-subaru-legacy-naugatuck-ct-6108460/1626970-0-medium.jpg
+6124590	Subaru	Legacy	2.5i Sport	4S3BMBH61E3006140	Red	16,700	$16,995	http://x-img.autorevo.com/2014-subaru-legacy-naugatuck-ct-6124590/1642265-0-medium.jpg
+6138896	Subaru	Legacy	2.5i Premium	4S3BMBB67D3029414	Blue	46,200	$11,995	http://x-img.autorevo.com/2013-subaru-legacy-naugatuck-ct-6138896/1656420-0-medium.jpg
+5983055	Subaru	Legacy	2.5i Premium	4S3BMBB60C3007673	Burgundy	72,500	$9,295	http://x-img.autorevo.com/2012-subaru-legacy-naugatuck-ct-5983055/1642889-0-medium.jpg
+6168309	Subaru	Legacy	Special Edition	4S3BL616187216738	White	83,900	$6,395	http://x-img.autorevo.com/2008-subaru-legacy-naugatuck-ct-6168309/1686860-0-medium.jpg
+6102993	Subaru	Outback	2.5i Limited	4S4BRBKC3E3315359	Tan	92,400	$11,995	http://x-img.autorevo.com/2014-subaru-outback-naugatuck-ct-6102993/1621066-0-medium.jpg
+6138751	Subaru	Outback	2.5i Prem	4S4BRCBC0C3275017	White	55,900	$12,995	http://x-img.autorevo.com/2012-subaru-outback-naugatuck-ct-6138751/1656217-0-medium.jpg
+6161897	Subaru	Outback	2.5i Limited	4S4BRBKC0B3429377	Red	116,300	$9,995	http://x-img.autorevo.com/2011-subaru-outback-naugatuck-ct-6161897/1679854-0-medium.jpg
+6138960	Subaru	Outback	2.5i Prem	4S4BRBCC4B3318703	Blue	50,300	$10,995	http://x-img.autorevo.com/2011-subaru-outback-naugatuck-ct-6138960/1656542-0-medium.jpg
+6145312	Subaru	Outback	Limited	4S4BRDKC9A2345154	Blue	123,500	$8,995	http://x-img.autorevo.com/2010-subaru-outback-naugatuck-ct-6145312/1662904-0-medium.jpg
+6151435	Subaru	Outback	Sport	JF1GH63608H833424	Tan	67,900	$8,995	http://x-img.autorevo.com/2008-subaru-outback-naugatuck-ct-6151435/1669537-0-medium.jpg
+6107691	Suzuki	XL7	Premium	2S3DA217986121023	Brown	87,100	$4,995	http://x-img.autorevo.com/2008-suzuki-xl7-naugatuck-ct-6107691/1626366-0-medium.jpg
+6167979	Toyota	4Runner	SR5	JTEBU5JR6G5289191	Silver	37,500	$27,995	http://x-img.autorevo.com/2016-toyota-4runner-naugatuck-ct-6167979/1686209-0-medium.jpg
+6120968	Toyota	4Runner	Limited	JTEBU5JR1C5087868	Blue	129,200	$21,995	http://x-img.autorevo.com/2012-toyota-4runner-naugatuck-ct-6120968/1638658-0-medium.jpg
+6168876	Toyota	Avalon	Hybrid Limited	4T1BD1EB1EU020878	Black	58,000	$17,995	http://x-img.autorevo.com/2014-toyota-avalon-hybrid-naugatuck-ct-6168876/1687274-0-medium.jpg
+6133906	Toyota	Camry	XLE	4T1BF1FKXEU774306	Blue	16,900	$13,995	http://x-img.autorevo.com/2014-toyota-camry-naugatuck-ct-6133906/1650887-0-medium.jpg
+6168184	Toyota	Camry	SE	4T1BK1FK3DU526831	Red	64,400	$12,995	http://x-img.autorevo.com/2013-toyota-camry-naugatuck-ct-6168184/1686558-0-medium.jpg
+6127154	Toyota	Camry	LE	4T1BK46K27U027301	Tan	106,400	$5,995	http://x-img.autorevo.com/2007-toyota-camry-naugatuck-ct-6127154/1643989-0-medium.jpg
+6107446	Toyota	Camry	Hybrid LE	4T1BD1FK0FU171226	White	18,100	$15,995	http://x-img.autorevo.com/2015-toyota-camry-hybrid-naugatuck-ct-6107446/1651248-0-medium.jpg
+6120765	Toyota	Camry	Hybrid XLE	4T1BD1FK0EU103930	Black	59,800	$13,995	http://x-img.autorevo.com/2014-toyota-camry-hybrid-naugatuck-ct-6120765/1638299-0-medium.jpg
+6120856	Toyota	Corolla	LE	2T1BU40E69C059122	Silver	166,700	$2,995	http://x-img.autorevo.com/2009-toyota-corolla-naugatuck-ct-6120856/1657421-0-medium.jpg
+6163433	Toyota	FJ	Cruiser	JTEBU11F28K020591	Burgundy	124,900	$11,995	http://x-img.autorevo.com/2008-toyota-fj-cruiser-naugatuck-ct-6163433/1681272-0-medium.jpg
+6167996	Toyota	Highlander	LE	5TDBKRFH8FS101281	Black	62,100	$20,995	http://x-img.autorevo.com/2015-toyota-highlander-naugatuck-ct-6167996/1686262-0-medium.jpg
+6125730	Toyota	Highlander	LE	5TDBKRFH4ES071498	Silver	29,200	$23,995	http://x-img.autorevo.com/2014-toyota-highlander-naugatuck-ct-6125730/1643342-0-medium.jpg
+6168883	Toyota	Highlander	Limited	5TDDK3EHXDS203900	Black	100,100	$18,995	http://x-img.autorevo.com/2013-toyota-highlander-naugatuck-ct-6168883/1687275-0-medium.jpg
+6168281	Toyota	Highlander	N/A	5TDBK3EH7BS090055	Silver	104,200	$13,295	http://x-img.autorevo.com/2011-toyota-highlander-naugatuck-ct-6168281/1686788-0-medium.jpg
+6163346	Toyota	Highlander	N/A	5TDBK3EH3AS005355	White	67,900	$12,295	http://x-img.autorevo.com/2010-toyota-highlander-naugatuck-ct-6163346/1681144-0-medium.jpg
+6157090	Toyota	Highlander	N/A	JTEES41A592138080	Gray	90,400	$11,995	http://x-img.autorevo.com/2009-toyota-highlander-naugatuck-ct-6157090/1674975-0-medium.jpg
+6168859	Toyota	Highlander	N/A	JTEES41A992131794	Black	122,200	$9,295	http://x-img.autorevo.com/2009-toyota-highlander-naugatuck-ct-6168859/1687231-0-medium.jpg
+6168306	Toyota	Highlander	N/A	JTEES41A992150989	Silver	132,800	$8,995	http://x-img.autorevo.com/2009-toyota-highlander-naugatuck-ct-6168306/1686858-0-medium.jpg
+6080123	Toyota	Highlander	N/A	JTEES41A682104616	Silver	96,100	$9,995	http://x-img.autorevo.com/2008-toyota-highlander-naugatuck-ct-6080123/1597924-0-medium.jpg
+6139029	Toyota	Highlander	Limited w/3rd Row	JTEEP21A070197679	Blue	96,500	N/A	http://x-img.autorevo.com/2007-toyota-highlander-naugatuck-ct-6139029/1674873-0-medium.jpg
+6157661	Toyota	Highlander	N/A	JTEEP21A260154752	Tan	90,900	$8,995	http://x-img.autorevo.com/2006-toyota-highlander-naugatuck-ct-6157661/1675464-0-medium.jpg
+6134122	Toyota	Highlander	N/A	JTEEP21A650109893	Tan	97,900	$7,395	http://x-img.autorevo.com/2005-toyota-highlander-naugatuck-ct-6134122/1651233-0-medium.jpg
+6168797	Toyota	Highlander	N/A	JTEGF21A130114718	Silver	119,400	$4,995	http://x-img.autorevo.com/2003-toyota-highlander-naugatuck-ct-6168797/1687183-0-medium.jpg
+6151209	Toyota	Prius	N/A	JTDKN3DU1A0242533	White	33,500	$9,995	http://x-img.autorevo.com/2010-toyota-prius-naugatuck-ct-6151209/1669173-0-medium.jpg
+6150523	Toyota	RAV4	XLE	2T3RFREV1FW348795	Gray	19,600	$18,995	http://x-img.autorevo.com/2015-toyota-rav4-naugatuck-ct-6150523/1668586-0-medium.jpg
+6161866	Toyota	RAV4	LE	JTMBFREV6DD018811	Gray	37,900	$14,495	http://x-img.autorevo.com/2013-toyota-rav4-naugatuck-ct-6161866/1679838-0-medium.jpg
+6168181	Toyota	RAV4	LE	2T3ZFREVXDW012530	Black	98,800	$10,995	http://x-img.autorevo.com/2013-toyota-rav4-naugatuck-ct-6168181/1686556-0-medium.jpg
+6157061	Toyota	RAV4	N/A	2T3ZF4DVXBW091800	Silver	53,900	$10,995	http://x-img.autorevo.com/2011-toyota-rav4-naugatuck-ct-6157061/1674926-0-medium.jpg
+6151235	Toyota	RAV4	N/A	JTMBF33V795009570	Brown	97,700	$7,995	http://x-img.autorevo.com/2009-toyota-rav4-naugatuck-ct-6151235/1680814-0-medium.jpg
+6163303	Toyota	Sequoia	SR5	5TDBY64AX8S001995	Brown	124,300	$14,995	http://x-img.autorevo.com/2008-toyota-sequoia-naugatuck-ct-6163303/1681095-0-medium.jpg
+6157059	Toyota	Sienna	LE	5TDKK3DC2FS582858	White	34,700	$18,995	http://x-img.autorevo.com/2015-toyota-sienna-naugatuck-ct-6157059/1674922-0-medium.jpg
+6162499	Toyota	Sienna	LE	5TDKK3DC8ES473609	White	40,900	$16,995	http://x-img.autorevo.com/2014-toyota-sienna-naugatuck-ct-6162499/1680317-0-medium.jpg
+6070553	Toyota	Sienna	LE	5TDJK3DC7ES074265	Black	88,400	$14,995	http://x-img.autorevo.com/2014-toyota-sienna-naugatuck-ct-6070553/1588168-0-medium.jpg
+6127064	Toyota	Sienna	LE	5TDKK3DC6BS146427	Black	49,700	$13,495	http://x-img.autorevo.com/2011-toyota-sienna-naugatuck-ct-6127064/1643890-0-medium.jpg
+6162111	Toyota	Tacoma	N/A	5TEUU42N48Z525919	Blue	127,700	$12,495	http://x-img.autorevo.com/2008-toyota-tacoma-naugatuck-ct-6162111/1680009-0-medium.jpg
+6119813	Toyota	Tundra	SR5	5TBBT54147S457846	White	103,000	$12,495	http://x-img.autorevo.com/2007-toyota-tundra-naugatuck-ct-6119813/1637271-0-medium.jpg
+6107582	Toyota	Venza	Limited	4T3BK3BB2CU067671	White	54,900	$17,995	http://x-img.autorevo.com/2012-toyota-venza-naugatuck-ct-6107582/1626101-0-medium.jpg
+6145184	Toyota	Venza	N/A	4T3BK11A69U002277	Blue	52,900	$11,995	http://x-img.autorevo.com/2009-toyota-venza-naugatuck-ct-6145184/1662730-0-medium.jpg
+6156733	Volkswagen	Beetle	N/A	3VWRG31Y79M408365	White	24,500	$8,995	http://x-img.autorevo.com/2009-volkswagen-new-beetle-naugatuck-ct-6156733/1674421-0-medium.jpg
+6114415	Volkswagen	Golf	TSI S	3VW217AU6GM041270	White	20,200	$13,995	http://x-img.autorevo.com/2016-volkswagen-golf-naugatuck-ct-6114415/1637418-0-medium.jpg
+6156793	Volkswagen	Golf	TSI S	3VW217AU9GM053350	White	21,900	$13,995	http://x-img.autorevo.com/2016-volkswagen-golf-naugatuck-ct-6156793/1674522-0-medium.jpg
+6139050	Volkswagen	GTI	N/A	WVWFV7AJ3AW387654	Black	76,500	$8,995	http://x-img.autorevo.com/2010-volkswagen-gti-naugatuck-ct-6139050/1656616-0-medium.jpg
+6114367	Volkswagen	Jetta	Hybrid SE	3VW637AJ0EM311933	Black	28,100	$10,995	http://x-img.autorevo.com/2014-volkswagen-jetta-naugatuck-ct-6114367/1638467-0-medium.jpg
+6155990	Volkswagen	Jetta	S	3VW2K7AJ2EM233348	Black	31,100	$7,995	http://x-img.autorevo.com/2014-volkswagen-jetta-naugatuck-ct-6155990/1673828-0-medium.jpg
+6162498	Volkswagen	Jetta	SE	3VWD17AJ8EM370743	Black	38,300	$8,995	http://x-img.autorevo.com/2014-volkswagen-jetta-naugatuck-ct-6162498/1680316-0-medium.jpg
+6162495	Volkswagen	Jetta	SE w/Connectivity	3VWD17AJ8EM256161	Gray	26,600	$9,995	http://x-img.autorevo.com/2014-volkswagen-jetta-naugatuck-ct-6162495/1680315-0-medium.jpg
+6120893	Volkswagen	Passat	SEL Premium	1VWCH7A36DC015742	Black	42,700	$12,495	http://x-img.autorevo.com/2013-volkswagen-passat-naugatuck-ct-6120893/1674901-0-medium.jpg
+6085591	Volkswagen	Tiguan	S	WVGBV7AX2FW504940	Black	30,200	$13,995	http://x-img.autorevo.com/2015-volkswagen-tiguan-naugatuck-ct-6085591/1603000-0-medium.jpg
+6168108	Volkswagen	Tiguan	S	WVGBV7AX3DW539449	Silver	83,300	$9,995	http://x-img.autorevo.com/2013-volkswagen-tiguan-naugatuck-ct-6168108/1686434-0-medium.jpg
+6168178	Volkswagen	Tiguan	S	WVGAV7AX4DW537351	Black	97,400	$7,995	http://x-img.autorevo.com/2013-volkswagen-tiguan-naugatuck-ct-6168178/1686554-0-medium.jpg
+6168248	Volkswagen	Tiguan	S 4Motion	WVGBV7AX1BW535252	Silver	49,100	$11,995	http://x-img.autorevo.com/2011-volkswagen-tiguan-naugatuck-ct-6168248/1686718-0-medium.jpg
+6114385	Volkswagen	Touareg	Sport	WVGEF9BP2CD010198	Black	52,800	$17,995	http://x-img.autorevo.com/2012-volkswagen-touareg-naugatuck-ct-6114385/1632014-0-medium.jpg
+6162627	Volvo	C70	N/A	YV1672MC3BJ108626	Blue	67,800	$12,995	http://x-img.autorevo.com/2011-volvo-c70-naugatuck-ct-6162627/1680493-0-medium.jpg
+6163349	Volvo	S40	2.4L	YV1MS390592449671	Black	84,800	$6,895	http://x-img.autorevo.com/2009-volvo-s40-naugatuck-ct-6163349/1681146-0-medium.jpg
+6144647	Volvo	S60	T5 Premier	YV1612TB5F1315633	White	70,300	$13,995	http://x-img.autorevo.com/2015-volvo-s60-naugatuck-ct-6144647/1662379-0-medium.jpg
+6168028	Volvo	S60	T5 Premier	YV1612FH2E1287238	Gray	43,800	$16,495	http://x-img.autorevo.com/2014-volvo-s60-naugatuck-ct-6168028/1686302-0-medium.jpg
+6090974	Volvo	S60	T5 Premier	YV1612FHXE2270360	Silver	60,800	$14,995	http://x-img.autorevo.com/2014-volvo-s60-naugatuck-ct-6090974/1608198-0-medium.jpg
+6156863	Volvo	S60	T5 Premier	YV1612FSXD2189210	Blue	46,700	$13,795	http://x-img.autorevo.com/2013-volvo-s60-naugatuck-ct-6156863/1674655-0-medium.jpg
+6168226	Volvo	S60	T5	YV1622FS1C2037845	Black	83,900	$8,695	http://x-img.autorevo.com/2012-volvo-s60-naugatuck-ct-6168226/1686686-0-medium.jpg
+6156819	Volvo	S80	T6 Platinum	YV1902MM0F1190606	Black	60,500	$22,995	http://x-img.autorevo.com/2015-volvo-s80-naugatuck-ct-6156819/1674567-0-medium.jpg
+6096716	Volvo	XC60	3.2L	YV4940DZ4E2514916	Black	44,600	$20,995	http://x-img.autorevo.com/2014-volvo-xc60-naugatuck-ct-6096716/1614112-0-medium.jpg
+6144599	Volvo	XC90	I6	YV4CZ982591518994	Black	49,100	N/A	http://x-img.autorevo.com/2009-volvo-xc90-naugatuck-ct-6144599/1681282-0-medium.jpg

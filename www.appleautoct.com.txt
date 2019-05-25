@@ -1,0 +1,110 @@
+Unique ID	Make	Model	Trim	VIN	Color	Mileage	Price	ImgUrl
+6161179	Acura	ILX	N/A	19VDE1F74EE003276	Polished Metal Metalli	37467	$15,950	http://x-img.autorevo.com/2014-acura-ilx-waterbury-ct-6161179/1679063-0-medium.jpg
+6124183	Audi	A4	N/A	WAUCB28D6XA046394	Gray	171590	$2,450	http://x-img.autorevo.com/1999-audi-a4-waterbury-ct-6124183/1641812-0-medium.jpg
+6093878	Audi	S6	N/A	WAUGN74F67N085377	Brilliant Black	155690	$10,995	http://x-img.autorevo.com/2007-audi-s6-wallingford-ct-6093878/1611266-0-medium.jpg
+6157768	BMW	X1	xDrive28i	WBAVL1C57FVY30803	Mineral Gray Metalli	34024	$19,895	http://x-img.autorevo.com/2015-bmw-x1-xdrive28i-waterbury-ct-6157768/1675675-0-medium.jpg
+6096030	Buick	Century	N/A	2G4WS52J011225396	Gold Metalli	N/A	$2,950	http://x-img.autorevo.com/2001-buick-century-wallingford-ct-6096030/1613509-0-medium.jpg
+6092946	Buick	Lucerne	N/A	1G4HE57Y38U148639	Black Onyx	149222	$4,950	http://x-img.autorevo.com/2008-buick-lucerne-wallingford-ct-6092946/1610687-0-medium.jpg
+6102905	Buick	Park	Avenue	1G4CW52K0W4639242	Green	N/A	$1,250	http://x-img.autorevo.com/1998-buick-park-avenue-waterbury-ct-6102905/1621587-0-medium.jpg
+6154047	Cadillac	CTS	Sedan	1G6DL5E37C0122466	Black Diamond Tricoat	28376	$24,950	http://x-img.autorevo.com/2012-cadillac-cts-sedan-waterbury-ct-6154047/1672439-0-medium.jpg
+6102914	Chevrolet	Cavalier	N/A	1G1JC5242W7275693	Green	N/A	$990	http://x-img.autorevo.com/1998-chevrolet-cavalier-wallingford-ct-6102914/1621019-0-medium.jpg
+6130736	Chevrolet	Equinox	N/A	2CNDL23F656169311	Black	137839	N/A	http://x-img.autorevo.com/2005-chevrolet-equinox-waterbury-ct-6130736/1647796-0-medium.jpg
+6102888	Chevrolet	Impala	N/A	2G1WB58K079203468	White	N/A	$3,900	http://x-img.autorevo.com/2007-chevrolet-impala-wallingford-ct-6102888/1620982-0-medium.jpg
+6168880	Chevrolet	Malibu	N/A	1G11B5SA4DF189412	Black Granite Metallic	41370	$10,900	http://x-img.autorevo.com/2013-chevrolet-malibu-waterbury-ct-6168880/1687314-0-medium.jpg
+6136670	Chevrolet	Malibu	N/A	1G11E5SA6DF311159	Taupe Gray Metalli	88864	$9,995	http://x-img.autorevo.com/2013-chevrolet-malibu-waterbury-ct-6136670/1653939-0-medium.jpg
+6096043	Chevrolet	Malibu	N/A	1G1NE52JX3M715240	Light Driftwood Metallic	146014	$1,950	http://x-img.autorevo.com/2003-chevrolet-malibu-wallingford-ct-6096043/1613528-0-medium.jpg
+6166778	Chevrolet	S-10	N/A	1GCCS1949YK137263	Medium Mystiqu	96621	$1,950	http://x-img.autorevo.com/2000-chevrolet-s-10-waterbury-ct-6166778/1684763-0-medium.jpg
+6145110	Chevrolet	Sonic	N/A	1G1JC6SG3E4223943	Silver Ice Metalli	44322	$9,500	http://x-img.autorevo.com/2014-chevrolet-sonic-waterbury-ct-6145110/1662667-0-medium.jpg
+6101212	Chevrolet	TrailBlazer	N/A	1GNDT13S742194684	Indigo Blu	189509	$2,995	http://x-img.autorevo.com/2004-chevrolet-trailblazer-wallingford-ct-6101212/1619410-0-medium.jpg
+6157777	Chevrolet	Traverse	N/A	1GNKVHKD8HJ128654	Summit White	12133	$26,950	http://x-img.autorevo.com/2017-chevrolet-traverse-waterbury-ct-6157777/1675677-0-medium.jpg
+6154052	Chevrolet	Traverse	N/A	1GNLVFED8AJ240946	Cyber Gray Metalli	107693	$12,950	http://x-img.autorevo.com/2010-chevrolet-traverse-waterbury-ct-6154052/1672420-0-medium.jpg
+6158433	Chrysler	200	N/A	1C3CCCAB1FN720574	Billet Silve	43424	$12,985	http://x-img.autorevo.com/2015-chrysler-200-waterbury-ct-6158433/1676252-0-medium.jpg
+6102932	Chrysler	Sebring	N/A	1C3EL56R14N263403	Gray	N/A	$2,900	http://x-img.autorevo.com/2004-chrysler-sebring-wallingford-ct-6102932/1621002-0-medium.jpg
+6157056	Dodge	Journey	N/A	3C4PDCBG1FT682123	Redline	51171	N/A	http://x-img.autorevo.com/2015-dodge-journey-waterbury-ct-6157056/1674908-0-medium.jpg
+6165714	Dodge	Neon	N/A	1B3ES46CXYD741657	Flame Red	108300	$1,950	http://x-img.autorevo.com/2000-dodge-neon-waterbury-ct-6165714/1683737-0-medium.jpg
+6093297	Ford	Edge	N/A	2FMDK4AK0BBB09669	White Platinum Metalli	81146	N/A	http://x-img.autorevo.com/2011-ford-edge-wallingford-ct-6093297/1610803-0-medium.jpg
+6102890	Ford	Explorer	N/A	1FMDU62E05UB08678	Mineral Grey Metalli	172070	$4,500	http://x-img.autorevo.com/2005-ford-explorer-wallingford-ct-6102890/1620987-0-medium.jpg
+6145271	Ford	F-150	N/A	1FTRW08W51KD74611	Tan	186235	$4,500	http://x-img.autorevo.com/2001-ford-f-150-waterbury-ct-6145271/1662852-0-medium.jpg
+6102884	Ford	F-150	Standard	2FTDF18W5VCA46941	Pacific Green	N/A	$2,900	http://x-img.autorevo.com/1997-ford-f-150-standard-waterbury-ct-6102884/1662863-2-medium.jpg
+6100170	Ford	Focus	N/A	1FADP3E23EL329313	Ingot Silver Metalli	36686	N/A	http://x-img.autorevo.com/2014-ford-focus-wallingford-ct-6100170/1618181-0-medium.jpg
+6127011	Ford	Fusion	N/A	3FA6P0H74GR334054	Ingot Silver	33045	$15,490	http://x-img.autorevo.com/2016-ford-fusion-waterbury-ct-6127011/1643842-0-medium.jpg
+6137643	Ford	Fusion	N/A	3FA6P0HD1ER332216	Oxford White	65130	$13,950	http://x-img.autorevo.com/2014-ford-fusion-waterbury-ct-6137643/1654987-0-medium.jpg
+6151089	Ford	Fusion	N/A	3FA6P0H77ER295814	Tuxedo Black Metalli	22534	$13,450	http://x-img.autorevo.com/2014-ford-fusion-waterbury-ct-6151089/1668995-0-medium.jpg
+6155509	Ford	Fusion	N/A	3FAHP0JA6BR203392	Sterling Gra	130846	$6,950	http://x-img.autorevo.com/2011-ford-fusion-waterbury-ct-6155509/1673269-0-medium.jpg
+6130725	Ford	Transit	Connect Van	NM0LS7CN2DT148742	Frozen White	46477	$12,495	http://x-img.autorevo.com/2013-ford-transit-connect-van-waterbury-ct-6130725/1647816-0-medium.jpg
+6165258	Ford	Windstar	Wagon	2FMZA52402BB76626	t Parchment Gold Metalli	110725	$2,690	http://x-img.autorevo.com/2002-ford-windstar-wagon-waterbury-ct-6165258/1683452-0-medium.jpg
+6168865	GMC	Acadia	N/A	1GKEV33708J198512	Red Jewel Tintcoat	101608	$13,950	http://x-img.autorevo.com/2008-gmc-acadia-waterbury-ct-6168865/1687287-0-medium.jpg
+6158604	Honda	Accord	N/A	1HGCT1B35EA002542	Crystal Black Pearl	34926	$14,950	http://x-img.autorevo.com/2014-honda-accord-waterbury-ct-6158604/1676560-0-medium.jpg
+6157758	Honda	Accord	N/A	1HGCR2E56EA019996	Modern Steel Metalli	35673	$14,950	http://x-img.autorevo.com/2014-honda-accord-waterbury-ct-6157758/1675647-0-medium.jpg
+6132745	Honda	Accord	N/A	1HGCR2F33DA276688	Crystal Black Pearl	52675	$13,450	http://x-img.autorevo.com/2013-honda-accord-waterbury-ct-6132745/1649780-0-medium.jpg
+6102935	Honda	Accord	N/A	JHMCG6695YC030315	Tan	256980	$1,995	http://x-img.autorevo.com/2000-honda-accord-wallingford-ct-6102935/1620997-0-medium.jpg
+6103674	Honda	Accord	Sdn	1HGCD5664SA159385	Silver	169000	$1,300	http://x-img.autorevo.com/1995-honda-accord-sdn-waterbury-ct-6103674/1622002-0-medium.jpg
+6159707	Honda	Civic	N/A	2HGFB2F89EH559385	Dyno Blu	39445	$13,950	http://x-img.autorevo.com/2014-honda-civic-waterbury-ct-6159707/1677618-0-medium.jpg
+6093203	Honda	Civic	N/A	19XFB2E54DE005509	Polished Metal Metalli	50219	$11,980	http://x-img.autorevo.com/2013-honda-civic-wallingford-ct-6093203/1610650-0-medium.jpg
+6163319	Honda	CR-V	N/A	5J6RM4H55EL024765	Urban Titanium Metalli	47235	$16,950	http://x-img.autorevo.com/2014-honda-cr-v-waterbury-ct-6163319/1681108-0-medium.jpg
+6168870	Honda	Odyssey	N/A	5FNRL5H2XEB050396	White Diamond Pearl	36758	$18,950	http://x-img.autorevo.com/2014-honda-odyssey-waterbury-ct-6168870/1687297-0-medium.jpg
+6143597	Honda	Pilot	N/A	5FNYF4H63DB018789	Alabaster Silver Metalli	99250	$16,795	http://x-img.autorevo.com/2013-honda-pilot-waterbury-ct-6143597/1661293-0-medium.jpg
+6119561	Hyundai	Elantra	N/A	5NPDH4AE7FH615250	Shale Gray Metalli	35458	$11,495	http://x-img.autorevo.com/2015-hyundai-elantra-waterbury-ct-6119561/1636990-0-medium.jpg
+6116780	Hyundai	Elantra	N/A	5NPDH4AE0EH525257	Harbor Gra	56730	$12,895	http://x-img.autorevo.com/2014-hyundai-elantra-waterbury-ct-6116780/1633742-0-medium.jpg
+6145170	Hyundai	Elantra	Coupe	KMHDH6AH7EU024941	Windy Sea Blue	60758	$10,950	http://x-img.autorevo.com/2014-hyundai-elantra-coupe-waterbury-ct-6145170/1662710-0-medium.jpg
+6157780	Hyundai	Sonata	N/A	5NPEB4AC7EH855658	Harbor Gra	47698	$12,495	http://x-img.autorevo.com/2014-hyundai-sonata-waterbury-ct-6157780/1675684-0-medium.jpg
+6094054	Hyundai	Sonata	N/A	5NPEB4AC6DH675862	Indigo Blu	41298	$11,495	http://x-img.autorevo.com/2013-hyundai-sonata-wallingford-ct-6094054/1611715-0-medium.jpg
+6167716	Infiniti	G37	N/A	JNKCV64E98M128747	Platinum Graphit	101693	$11,800	http://x-img.autorevo.com/2008-infiniti-g37-waterbury-ct-6167716/1685887-0-medium.jpg
+6143553	Jeep	Grand	Cherokee	1C4RJFAG3DC557346	Bright White	34571	$19,450	http://x-img.autorevo.com/2013-jeep-grand-cherokee-waterbury-ct-6143553/1661247-0-medium.jpg
+6133891	Kia	Soul	N/A	KNDJT2A58D7618892	Titanium Pearl Metalli	53978	$10,295	http://x-img.autorevo.com/2013-kia-soul-waterbury-ct-6133891/1650927-0-medium.jpg
+6124655	Lexus	GS	350	JTHCE96SX70011169	Matador Red Mica	154114	$13,950	http://x-img.autorevo.com/2007-lexus-gs-350-waterbury-ct-6124655/1642343-0-medium.jpg
+6164974	Lexus	IS	250C	JTHFF2C24A2508087	Obsidian	105881	$14,500	http://x-img.autorevo.com/2010-lexus-is-250c-waterbury-ct-6164974/1683092-0-medium.jpg
+6102934	Mazda	626	N/A	1YVGF22C015218597	Blue	N/A	$1,995	http://x-img.autorevo.com/2001-mazda-626-wallingford-ct-6102934/1621000-0-medium.jpg
+6162610	Mazda	Mazda3	N/A	JM1BL1U78D1756267	Black Mica	114677	$9,500	http://x-img.autorevo.com/2013-mazda-mazda3-waterbury-ct-6162610/1680458-0-medium.jpg
+6130733	Mercedes-Benz	C240	N/A	WDBRF81JX5F644894	Tan	164012	$5,950	http://x-img.autorevo.com/2005-mercedes-benz-c240-waterbury-ct-6130733/1647807-0-medium.jpg
+6162592	Mercedes-Benz	C300	N/A	WDDGF81X78F062288	Black	73523	$12,950	http://x-img.autorevo.com/2008-mercedes-benz-c300-waterbury-ct-6162592/1680468-0-medium.jpg
+6102903	Mercury	Sable	N/A	1MEFM53U41A620371	Black	153404	$990	http://x-img.autorevo.com/2001-mercury-sable-waterbury-ct-6102903/1621590-0-medium.jpg
+6102911	Mitsubishi	Galant	N/A	4A3AA46G72E109135	Silver	N/A	$1,424	http://x-img.autorevo.com/2002-mitsubishi-galant-waterbury-ct-6102911/1621584-0-medium.jpg
+6166776	Nissan	Altima	N/A	1N4AL3AP0FN339917	Saharan Stone	21245	$14,500	http://x-img.autorevo.com/2015-nissan-altima-waterbury-ct-6166776/1684765-0-medium.jpg
+6156008	Nissan	Altima	N/A	1N4AL3AP7FC145879	Solid White	42196	$13,995	http://x-img.autorevo.com/2015-nissan-altima-waterbury-ct-6156008/1673851-0-medium.jpg
+6156006	Nissan	Altima	N/A	1N4AL3AP6EN238315	Java Metalli	28775	$13,495	http://x-img.autorevo.com/2014-nissan-altima-waterbury-ct-6156006/1673857-0-medium.jpg
+6133893	Nissan	Altima	N/A	1N4AL3AP2EC192378	Saharan Stone Metallic	19706	$13,450	http://x-img.autorevo.com/2014-nissan-altima-waterbury-ct-6133893/1650923-0-medium.jpg
+6151088	Nissan	Altima	N/A	1N4AL3AP9EC424992	Java Metalli	43223	$12,895	http://x-img.autorevo.com/2014-nissan-altima-waterbury-ct-6151088/1668993-0-medium.jpg
+6093179	Nissan	Altima	N/A	1N4AL3APXEC405139	Brilliant Silver Metalli	55265	N/A	http://x-img.autorevo.com/2014-nissan-altima-wallingford-ct-6093179/1610674-0-medium.jpg
+6136677	Nissan	Altima	N/A	1N4AL3AP8EN348184	Brilliant Silver Metalli	48414	$11,895	http://x-img.autorevo.com/2014-nissan-altima-waterbury-ct-6136677/1653916-0-medium.jpg
+6168861	Nissan	Altima	N/A	1N4AL3AP2EC203699	Super Black	28544	$13,495	http://x-img.autorevo.com/2014-nissan-altima-waterbury-ct-6168861/1687265-0-medium.jpg
+6161180	Nissan	Altima	N/A	1N4AL3AP3DC249007	Gray	30923	$12,495	http://x-img.autorevo.com/2013-nissan-altima-waterbury-ct-6161180/1679064-0-medium.jpg
+6151081	Nissan	Altima	N/A	1N4AL2AP9CN424504	Blue	52189	N/A	http://x-img.autorevo.com/2012-nissan-altima-waterbury-ct-6151081/1668981-0-medium.jpg
+6151967	Nissan	Altima	N/A	1N4AL2AP0CC194220	Saharan Stone Metallic	71489	$9,995	http://x-img.autorevo.com/2012-nissan-altima-waterbury-ct-6151967/1670317-0-medium.jpg
+6145111	Nissan	JUKE	N/A	JN8AF5MR6FT507778	Bordeaux Black	11576	$16,950	http://x-img.autorevo.com/2015-nissan-juke-waterbury-ct-6145111/1662669-0-medium.jpg
+6151085	Nissan	Maxima	N/A	1N4AA5AP7EC470970	Gray	32106	$17,450	http://x-img.autorevo.com/2014-nissan-maxima-waterbury-ct-6151085/1668984-0-medium.jpg
+6119579	Nissan	Maxima	N/A	1N4AA5AP2EC459844	Brilliant Silver Metalli	44661	$15,950	http://x-img.autorevo.com/2014-nissan-maxima-waterbury-ct-6119579/1636991-0-medium.jpg
+6116688	Nissan	Maxima	N/A	1N4AA5APXDC805556	Metallic Slate	42493	$14,950	http://x-img.autorevo.com/2013-nissan-maxima-waterbury-ct-6116688/1633634-0-medium.jpg
+6162783	Nissan	Murano	N/A	JN8AZ1MW1DW306632	Super Black	54926	N/A	http://x-img.autorevo.com/2013-nissan-murano-waterbury-ct-6162783/1680746-0-medium.jpg
+6157764	Nissan	Quest	N/A	JN8AE2KP1G9153573	Titanium	44768	$17,495	http://x-img.autorevo.com/2016-nissan-quest-waterbury-ct-6157764/1675662-0-medium.jpg
+6134943	Nissan	Quest	N/A	JN8AE2KP0F9124953	Titanium	37748	$19,950	http://x-img.autorevo.com/2015-nissan-quest-waterbury-ct-6134943/1652257-0-medium.jpg
+6108894	Nissan	Rogue	N/A	5N1AT2MV5FC800969	Arctic Blu	79624	$18,950	http://x-img.autorevo.com/2015-nissan-rogue-waterbury-ct-6108894/1627315-0-medium.jpg
+6145173	Nissan	Rogue	N/A	5N1AT2MKXEC793926	Graphite Blu	58284	$14,950	http://x-img.autorevo.com/2014-nissan-rogue-waterbury-ct-6145173/1662707-0-medium.jpg
+6143538	Nissan	Rogue	N/A	JN8AS5MVXDW149704	Black Amethyst	24364	$14,950	http://x-img.autorevo.com/2013-nissan-rogue-waterbury-ct-6143538/1661228-0-medium.jpg
+6151186	Nissan	Sentra	N/A	3N1AB7APXFL661858	Amethyst Gra	43074	$11,450	http://x-img.autorevo.com/2015-nissan-sentra-waterbury-ct-6151186/1669140-0-medium.jpg
+6151086	Nissan	Sentra	N/A	3N1AB7AP8FY244208	Amethyst Gra	41131	$11,450	http://x-img.autorevo.com/2015-nissan-sentra-waterbury-ct-6151086/1668985-0-medium.jpg
+6133895	Nissan	Sentra	N/A	3N1AB7AP6EY283670	Red Brick	17084	$11,495	http://x-img.autorevo.com/2014-nissan-sentra-waterbury-ct-6133895/1650910-0-medium.jpg
+6166775	Nissan	Sentra	N/A	3N1AB7AP7EY313579	Brilliant Silver	26031	$10,495	http://x-img.autorevo.com/2014-nissan-sentra-waterbury-ct-6166775/1684766-0-medium.jpg
+6169421	Nissan	Sentra	N/A	3N1AB7AP2EL634488	Red Brick	27285	$10,495	http://x-img.autorevo.com/2014-nissan-sentra-waterbury-ct-6169421/1687800-0-medium.jpg
+6093192	Nissan	Sentra	N/A	3N1AB7APXEY217672	Brilliant Silver	72647	N/A	http://x-img.autorevo.com/2014-nissan-sentra-wallingford-ct-6093192/1610657-0-medium.jpg
+6145277	Nissan	Sentra	N/A	3N1AB7AP9EL686670	Graphite Blu	31571	$10,950	http://x-img.autorevo.com/2014-nissan-sentra-waterbury-ct-6145277/1663458-0-medium.jpg
+6132962	Nissan	Sentra	N/A	3N1AB7AP0EY248543	Aspen White	18992	$11,995	http://x-img.autorevo.com/2014-nissan-sentra-waterbury-ct-6132962/1649988-0-medium.jpg
+6094994	Nissan	Sentra	N/A	3N1AB7AP0DL681193	Brilliant Silver	28611	$11,495	http://x-img.autorevo.com/2013-nissan-sentra-wallingford-ct-6094994/1612566-0-medium.jpg
+6158435	Nissan	Versa	Note	3N1CE2CP6FL363775	Morningsky Blu	41660	$9,995	http://x-img.autorevo.com/2015-nissan-versa-note-waterbury-ct-6158435/1676248-0-medium.jpg
+6103677	Oldsmobile	Silhouette	N/A	1GHDX03E71D320232	Tan	N/A	$1,995	http://x-img.autorevo.com/2001-oldsmobile-silhouette-waterbury-ct-6103677/1621996-0-medium.jpg
+6108890	Porsche	Cayenne	N/A	WP1AB2AP8ALA51072	Basalt Black Metalli	153032	$14,850	http://x-img.autorevo.com/2010-porsche-cayenne-waterbury-ct-6108890/1627306-0-medium.jpg
+6102921	Saab	9-3	N/A	YS3FB49S341020994	White	N/A	$1,995	http://x-img.autorevo.com/2004-saab-9-3-wallingford-ct-6102921/1621003-0-medium.jpg
+6102898	Saab	9-3	N/A	YS3DF75K917011180	Black	151000	$1,452	http://x-img.autorevo.com/2001-saab-9-3-waterbury-ct-6102898/1621592-0-medium.jpg
+6102918	Saturn	LS	N/A	1G8JU52F1YY627630	Burgundy	202620	$1,300	http://x-img.autorevo.com/2000-saturn-ls-wallingford-ct-6102918/1621013-0-medium.jpg
+6137637	Scion	tC	N/A	JTKDE167280270381	Super White	179523	$3,450	http://x-img.autorevo.com/2008-scion-tc-waterbury-ct-6137637/1655004-0-medium.jpg
+6143570	Toyota	Camry	N/A	4T4BF1FK7ER443463	Super White	44364	$16,985	http://x-img.autorevo.com/2014-toyota-camry-waterbury-ct-6143570/1661264-0-medium.jpg
+6145108	Toyota	Camry	N/A	4T1BK3EK9BU626264	Barcelona Red Metallic	59462	$11,950	http://x-img.autorevo.com/2011-toyota-camry-waterbury-ct-6145108/1662663-0-medium.jpg
+6166777	Toyota	Celica	N/A	JTDDR32T510103335	Black	206191	$1,950	http://x-img.autorevo.com/2001-toyota-celica-waterbury-ct-6166777/1684768-0-medium.jpg
+6093176	Toyota	Corolla	N/A	2T1BURHE2EC146706	Black Sand Mic	28910	$14,650	http://x-img.autorevo.com/2014-toyota-corolla-wallingford-ct-6093176/1610678-0-medium.jpg
+6149024	Toyota	Corolla	N/A	2T1BR30E35C481175	Desert San	118194	$5,995	http://x-img.autorevo.com/2005-toyota-corolla-waterbury-ct-6149024/1666785-0-medium.jpg
+6094049	Toyota	Highlander	N/A	5TDBK3EH0DS193658	Black	74117	$17,690	http://x-img.autorevo.com/2013-toyota-highlander-wallingford-ct-6094049/1611724-0-medium.jpg
+6163308	Toyota	Prius	N/A	JTDKN3DU4E1779719	Barcelona Red Metallic	36956	$14,950	http://x-img.autorevo.com/2014-toyota-prius-waterbury-ct-6163308/1681097-0-medium.jpg
+6132761	Toyota	Yaris	N/A	VNKKTUD35FA033033	c Silver Metalli	32508	$10,850	http://x-img.autorevo.com/2015-toyota-yaris-waterbury-ct-6132761/1649794-0-medium.jpg
+6102887	Volkswagen	Jetta	N/A	3VWSP29M71M046328	Blue	N/A	$1,490	http://x-img.autorevo.com/2001-volkswagen-jetta-wallingford-ct-6102887/1620981-0-medium.jpg
+6162391	Volkswagen	Passat	N/A	WVWTH63BX2P115141	Blue Anthracit	203703	$2,800	http://x-img.autorevo.com/2002-volkswagen-passat-waterbury-ct-6162391/1680156-0-medium.jpg
+6103670	Volvo	V70	N/A	YV1SZ59H341124892	Nautic Blu	154940	$2,459	http://x-img.autorevo.com/2004-volvo-v70-waterbury-ct-6103670/1622004-0-medium.jpg

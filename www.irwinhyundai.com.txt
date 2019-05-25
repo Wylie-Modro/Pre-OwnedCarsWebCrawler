@@ -1,0 +1,187 @@
+Unique ID	Make	Model	Trim	VIN	Color	Mileage	Price	ImgUrl
+HAF428	Nissan	Rogue	S	5N1AT2MV8GC778385	N/A	10,576	$18,593	http://www.irwinhyundai.com/assets/inventory/vehicles/5n1at2mv8gc778385/ip/thumbs/1-320.jpg
+HHT954A	Hyundai	Elantra	SE	KMHDH4AE5GU530118	N/A	27,751	$11,658	http://www.irwinhyundai.com/assets/inventory/vehicles/kmhdh4ae5gu530118/ip/thumbs/1-320.jpg
+HPP034A	Volvo	XC90	T6 Momentum	YV4A22PK8G1031208	Luminous San	16,384	$48,884	http://www.irwinhyundai.com/assets/inventory/vehicles/yv4a22pk8g1031208/ip/thumbs/1-320.jpg
+HPP033	Jeep	Cherokee	Latitude	1C4PJMCS9FW750499	Bright White Clearcoat	14,598	$21,175	http://www.irwinhyundai.com/assets/inventory/vehicles/1c4pjmcs9fw750499/ip/thumbs/1-320.jpg
+HMM024	Jeep	Patriot	Latitude	1C4NJRFB5ED725545	Bright White Clearcoat	27,780	$15,141	http://www.irwinhyundai.com/assets/inventory/vehicles/1c4njrfb5ed725545/ip/thumbs/1-320.jpg
+HMM023	Chrysler	Town	& Country Touring	2C4RC1BG2ER169397	Deep Cherr	35,051	$16,623	http://www.irwinhyundai.com/assets/inventory/vehicles/2c4rc1bg2er169397/ip/thumbs/1-320.jpg
+HAP130	Hyundai	Sonata	GLS	5NPEB4AC4EH888438	N/A	32,814	$11,892	http://www.irwinhyundai.com/assets/inventory/vehicles/5npeb4ac4eh888438/ip/thumbs/1-320.jpg
+HAP129	Hyundai	Sonata	GLS	5NPEB4AC5EH915887	N/A	40,345	$11,483	http://www.irwinhyundai.com/assets/inventory/vehicles/5npeb4ac5eh915887/ip/thumbs/1-320.jpg
+HDP007	Kia	Sorento	LX	5XYKTCA60EG453914	Wave Blu	50,875	$16,975	http://www.irwinhyundai.com/assets/inventory/vehicles/5xyktca60eg453914/ip/thumbs/1-320.jpg
+HAP125	Kia	Sorento	LX	5XYKTCA63EG540805	N/A	31,117	$16,535	http://www.irwinhyundai.com/assets/inventory/vehicles/5xyktca63eg540805/ip/thumbs/1-320.jpg
+HHT975A	Hyundai	Tucson	Limited	KM8JUCAG5EU793555	N/A	41,372	$16,578	http://www.irwinhyundai.com/assets/inventory/vehicles/km8jucag5eu793555/ip/thumbs/1-320.jpg
+HAP126	Hyundai	Elantra	N/A	KMHDH4AE8EU068019	N/A	54,102	$10,683	http://www.irwinhyundai.com/assets/inventory/vehicles/kmhdh4ae8eu068019/ip/thumbs/1-320.jpg
+HAP128	Kia	Optima	LX	KNAGM4A75E5485314	Snow White Pearl	36,053	$12,000	http://www.irwinhyundai.com/assets/inventory/vehicles/knagm4a75e5485314/ip/thumbs/1-320.jpg
+HMM022	Dodge	Dart	Limited	1C3CDFCH4DD300147	N/A	53,138	$10,325	http://www.irwinhyundai.com/assets/inventory/vehicles/1c3cdfch4dd300147/ip/thumbs/1-320.jpg
+HPP035	Hyundai	Elantra	Limited	5NPDH4AE7DH371385	N/A	31,381	$12,719	http://www.irwinhyundai.com/assets/inventory/vehicles/5npdh4ae7dh371385/ip/thumbs/1-320.jpg
+HHT936A	Hyundai	Elantra	Limited	5NPDH4AE7DH449244	Desert Bronz	35,462	$11,503	http://www.irwinhyundai.com/assets/inventory/vehicles/5npdh4ae7dh449244/ip/thumbs/1-320.jpg
+HAP127	Hyundai	Elantra	GLS	KMHDH4AE5DU014207	N/A	32,974	$11,000	http://www.irwinhyundai.com/assets/inventory/vehicles/kmhdh4ae5du014207/ip/thumbs/1-320.jpg
+HHT908A	Hyundai	Elantra	Limited	KMHDH4AE5DU668270	N/A	63,236	$10,661	http://www.irwinhyundai.com/assets/inventory/vehicles/kmhdh4ae5du668270/ip/thumbs/1-320.jpg
+HHT932A	Hyundai	Veloster	RE:MIX	KMHTC6AD5DU131914	N/A	88,952	$8,573	http://www.irwinhyundai.com/assets/inventory/vehicles/kmhtc6ad5du131914/ip/thumbs/1-320.jpg
+HHT945A	Ford	Fusion	SEL	3FAHP0JA8CR101321	Ingot Silver Metalli	65,009	$10,111	http://www.irwinhyundai.com/assets/inventory/vehicles/3fahp0ja8cr101321/ip/thumbs/1-320.jpg
+LHHT955B	Kia	Optima	LX	5XXGM4A71CG033551	Metal Bronze	92,487	$8,724	http://www.irwinhyundai.com/assets/inventory/vehicles/5xxgm4a71cg033551/ip/thumbs/1-320.jpg
+HHC243B	Kia	Soul	Exclaim	KNDJT2A64C7379395	N/A	70,634	$9,569	http://www.irwinhyundai.com/assets/inventory/vehicles/kndjt2a64c7379395/ip/thumbs/1-320.jpg
+HAF427A	BMW	3	Series 328i xDrive	WBAPK5C52BF125592	Jet Black	50,793	$15,139	http://www.irwinhyundai.com/assets/inventory/vehicles/wbapk5c52bf125592/ip/thumbs/1-320.jpg
+HMM012A	Chevrolet	Cobalt	LT w/2LT	1G1AF5F59A7110999	N/A	166,697	$1,998	http://www.irwinhyundai.com/assets/inventory/vehicles/1g1af5f59a7110999/ip/thumbs/1-320.jpg
+LHJT860B	Chevrolet	Cobalt	LS	1G1AK58H097140780	Silver Ice Metalli	142,904	$2,998	http://www.irwinhyundai.com/assets/inventory/vehicles/1g1ak58h097140780/ip/thumbs/1-320.jpg
+HHC133A	Dodge	Grand	Caravan SE	1D8HN44HX8B164398	Bright Silve	198,630	$1,998	http://www.irwinhyundai.com/assets/inventory/vehicles/1d8hn44hx8b164398/ip/thumbs/1-320.jpg
+HET568A	GMC	Acadia	SLT2	1GKEV33728J262386	N/A	119,470	$13,110	http://www.irwinhyundai.com/assets/inventory/vehicles/1gkev33728j262386/ip/thumbs/1-320.jpg
+HJT894B	Ford	Edge	SE	2FMDK46C18BA03225	N/A	117,165	$9,000	http://www.irwinhyundai.com/assets/inventory/vehicles/2fmdk46c18ba03225/ip/thumbs/1-320.jpg
+HHT977A	Volkswagen	Jetta	S	3VWJZ71K08M042533	N/A	105,373	$6,065	http://www.irwinhyundai.com/assets/inventory/vehicles/3vwjz71k08m042533/ip/thumbs/1-320.jpg
+HPP030	Hyundai	Elantra	GLS	KMHDU46D28U569374	N/A	98,678	$5,000	http://www.irwinhyundai.com/assets/inventory/vehicles/kmhdu46d28u569374/ip/thumbs/1-320.jpg
+HHC248A	Saturn	Ion	ION 2	1G8AM15F57Z119027	Deep Blu	150,379	$1,798	http://www.irwinhyundai.com/assets/inventory/vehicles/1g8am15f57z119027/ip/thumbs/1-320.jpg
+HHT940A	Mitsubishi	Eclipse	GT	4A3AK34T67E007372	Satin Meisai Gra	134,572	$4,705	http://www.irwinhyundai.com/assets/inventory/vehicles/4a3ak34t67e007372/ip/thumbs/1-320.jpg
+HHC230A	Audi	A4	2.0T	WAUDF48HX7K032449	Alpaka Beige Metalli	121,623	$4,298	http://www.irwinhyundai.com/assets/inventory/vehicles/waudf48hx7k032449/ip/thumbs/1-320.jpg
+LHHT916A	Honda	Ridgeline	RT	2HJYK16226H545659	Steel Blue Metalli	163,261	$5,298	http://www.irwinhyundai.com/assets/inventory/vehicles/2hjyk16226h545659/ip/thumbs/1-320.jpg
+HJT564B	HUMMER	H3	N/A	5GTDN136568124177	Shadow Green Metalli	166,529	$8,000	http://www.irwinhyundai.com/assets/inventory/vehicles/5gtdn136568124177/ip/thumbs/1-320.jpg
+LHHT971A	Toyota	Highlander	Limited w/3rd Row	JTEEP21A560161842	Super White	179,069	$5,731	http://www.irwinhyundai.com/assets/inventory/vehicles/jteep21a560161842/ip/thumbs/1-320.jpg
+HHC186A	Dodge	Caravan	SXT	1D4GP45R15B144597	Blue	118,390	$2,198	http://www.irwinhyundai.com/assets/inventory/vehicles/1d4gp45r15b144597/ip/thumbs/1-320.jpg
+GJT1296C	Dodge	Caravan	SXT	2D4GP44L35R415450	Bright Silve	132,969	$1,998	http://www.irwinhyundai.com/assets/inventory/vehicles/2d4gp44l35r415450/ip/thumbs/1-320.jpg
+HFC305C	Chevrolet	Silverado	SS SS	2GCEK19N731337049	Arrival Blue Metalli	138,466	$12,250	http://www.irwinhyundai.com/assets/inventory/vehicles/2gcek19n731337049/ip/thumbs/1-320.jpg
+HJT330D	Subaru	Legacy	Wagon Outback	4S3BH675237652717	Silver Stone Metalli	132,674	$2,998	http://www.irwinhyundai.com/assets/inventory/vehicles/4s3bh675237652717/ip/thumbs/1-320.jpg
+LHHC268B	Toyota	Avalon	XLS	4T1BF28B63U286017	Aspen Green Pearl	218,458	$1,998	http://www.irwinhyundai.com/assets/inventory/vehicles/4t1bf28b63u286017/ip/thumbs/1-320.jpg
+HAP099B	Chevrolet	Impala	N/A	2G1WF55E219323234	White	167,509	$1,498	http://www.irwinhyundai.com/assets/inventory/vehicles/2g1wf55e219323234/ip/thumbs/1-320.jpg
+HJT330DD	Ford	F-150	N/A	1FTEF15N2PLA20774	White	117,962	$2,998	http://www.irwinhyundai.com/assets/inventory/vehicles/1ftef15n2pla20774/ip/thumbs/1-320.jpg
+RP560	Ford	Escape	SE	1FMCU9G98HUA24573	White	16,172	$24,291	http://www.irwinhyundai.com/assets/inventory/vehicles/1fmcu9g98hua24573/ip/thumbs/1-320.jpg
+RP561	Ford	Escape	SE	1FMCU9G99HUA24419	Black	16,065	$24,291	http://www.irwinhyundai.com/assets/inventory/vehicles/1fmcu9g99hua24419/ip/thumbs/1-320.jpg
+PP200	Kia	Sportage	LX	KNDPMCAC5H7118481	Black	11,620	$22,059	http://www.irwinhyundai.com/assets/inventory/vehicles/kndpmcac5h7118481/ip/thumbs/1-320.jpg
+HFT481A	Ford	Super	Duty F-350 SRW Lariat	1FT8W3BT0GEC27969	Black	15,435	$55,810	http://www.irwinhyundai.com/assets/inventory/vehicles/1ft8w3bt0gec27969/ip/thumbs/1-320.jpg
+HJT604A	Chevrolet	Silverado	1500 LS	1GCVKNEC3GZ258549	Black	6,839	$35,310	http://www.irwinhyundai.com/assets/inventory/vehicles/1gcvknec3gz258549/ip/thumbs/1-320.jpg
+HFT544A	Lincoln	MKX	Reserve	2LMTJ8LR0GBL53091	White	16,256	$38,854	http://www.irwinhyundai.com/assets/stock/colormatched_01/white/640/cc_2016lis030001_01_640/cc_2016lis030001_01_640_ug.jpg
+GFT497A	Ford	Fiesta	SE	3FADP4EJ7GM187840	Black	<li class="mileageDisplay"><strong>Mileage: </strong>17</li>	$15,969	http://www.irwinhyundai.com/assets/inventory/vehicles/3fadp4ej7gm187840/ip/thumbs/1-320.jpg
+LHLT852A	Acura	MDX	w/Tech	5FRYD4H40GB027974	Maroon	12,985	$43,389	http://www.irwinhyundai.com/assets/inventory/vehicles/5fryd4h40gb027974/ip/thumbs/1-320.jpg
+HFT459A	Mazda	CX-5	Grand Touring	JM3KE4DY5G0607398	Brown	51,102	$22,880	http://www.irwinhyundai.com/assets/inventory/vehicles/jm3ke4dy5g0607398/ip/thumbs/1-320.jpg
+HJT347A	Ford	Explorer	Limited	1FM5K8F80FGB54425	Black	24,475	$30,244	http://www.irwinhyundai.com/assets/inventory/vehicles/1fm5k8f80fgb54425/ip/thumbs/1-320.jpg
+LHJT893A	Honda	CR-V	EX-L	2HKRM4H70FH707275	Silver	16,211	$25,997	http://www.irwinhyundai.com/assets/inventory/vehicles/2hkrm4h70fh707275/ip/thumbs/1-320.jpg
+CP425	Toyota	Corolla	LE Plus	2T1BURHE6FC316647	Blue	21,534	$14,545	http://www.irwinhyundai.com/assets/inventory/vehicles/2t1burhe6fc316647/ip/thumbs/1-320.jpg
+CP423	Toyota	RAV4	LE	2T3BFREV4FW310950	Orange	36,531	$18,375	http://www.irwinhyundai.com/assets/inventory/vehicles/2t3bfrev4fw310950/ip/thumbs/1-320.jpg
+HFT593A	Chevrolet	Silverado	1500 LT	3GCUKREC7FG399139	Green	21,294	$34,439	http://www.irwinhyundai.com/assets/inventory/vehicles/3gcukrec7fg399139/ip/thumbs/1-320.jpg
+XP009	Mazda3	i	Sport	3MZBM1U76FM189458	White	35,323	$14,264	http://www.irwinhyundai.com/assets/inventory/vehicles/3mzbm1u76fm189458/ip/thumbs/1-320.jpg
+HJT806A	Toyota	Tacoma	N/A	3TMLU4EN7FM189698	White	28,983	$28,370	http://www.irwinhyundai.com/assets/inventory/vehicles/3tmlu4en7fm189698/ip/thumbs/1-320.jpg
+RP559A	Subaru	Legacy	2.5i Limited	4S3BNAN65F3045942	White	25,766	$23,259	http://www.irwinhyundai.com/assets/inventory/vehicles/4s3bnan65f3045942/ip/thumbs/1-320.jpg
+LHJT909A	Toyota	Highlander	LEPL	5TDBKRFH3FS181623	Silver	27,780	N/A	http://www.irwinhyundai.com/assets/inventory/vehicles/5tdbkrfh3fs181623/ip/thumbs/1-320.jpg
+HJT491A	Toyota	Highlander	XLE	5TDJKRFH6FS199206	Silver	14,181	$35,748	http://www.irwinhyundai.com/assets/inventory/vehicles/5tdjkrfh6fs199206/ip/thumbs/1-320.jpg
+HJC971B	Toyota	Tacoma	N/A	5TFUX4EN8FX035247	Silver	16,031	$23,955	http://www.irwinhyundai.com/assets/inventory/vehicles/5tfux4en8fx035247/ip/thumbs/1-320.jpg
+HJT628A	Toyota	Tacoma	Ext Cab 4x4 SR5	5TFUX4EN9FX034365	Silver	23,636	$23,175	http://www.irwinhyundai.com/assets/inventory/vehicles/5tfux4en9fx034365/ip/thumbs/1-320.jpg
+LB826	Toyota	Tacoma	Access Cab 4x4	5TFUX4ENXFX030969	Silver	24,867	$22,986	http://www.irwinhyundai.com/assets/inventory/vehicles/5tfux4enxfx030969/ip/thumbs/1-320.jpg
+HJT401A	Toyota	RAV4	LE	JTMBFREV6FD130169	Red	9,009	$20,688	http://www.irwinhyundai.com/assets/inventory/vehicles/jtmbfrev6fd130169/ip/thumbs/1-320.jpg
+LHJT782B	Nissan	Rogue	S	KNMAT2MV0FP545726	Black	30,502	$17,000	http://www.irwinhyundai.com/assets/inventory/vehicles/knmat2mv0fp545726/ip/thumbs/1-320.jpg
+HJT764A	Jeep	Wrangler	Sport	1C4AJWAG8EL194718	Black	61,008	$22,559	http://www.irwinhyundai.com/assets/inventory/vehicles/1c4ajwag8el194718/ip/thumbs/1-320.jpg
+HFT404A	Ford	F-150	XLT	1FTFX1EF8EFC58408	Green	32,789	$26,838	http://www.irwinhyundai.com/assets/inventory/vehicles/1ftfx1ef8efc58408/ip/thumbs/1-320.jpg
+HFT390A	Ford	F-150	Ext Cab 4x4	1FTFX1ET8EFB72506	Black	28,530	$30,818	http://www.irwinhyundai.com/assets/inventory/vehicles/1ftfx1et8efb72506/ip/thumbs/1-320.jpg
+HJT406B	Chevrolet	Sonic	LT	1G1JD6SH7E4217813	Graphite Silve	3,840	$12,294	http://www.irwinhyundai.com/assets/inventory/vehicles/1g1jd6sh7e4217813/ip/thumbs/1-320.jpg
+HFT411A	Chevrolet	Silverado	1500 LT	1GCVKREC8EZ387004	Red	11,077	$34,279	http://www.irwinhyundai.com/assets/inventory/vehicles/1gcvkrec8ez387004/ip/thumbs/1-320.jpg
+CP421	Lincoln	MKX	Limited Edition AWD	2LMDJ8JK3EBL13904	White Platinum Metalli	41,446	$27,000	http://www.irwinhyundai.com/assets/inventory/vehicles/2lmdj8jk3ebl13904/ip/thumbs/1-320.jpg
+PP202	Toyota	Corolla	N/A	2T1BURHE6EC208298	Red	53,982	N/A	http://www.irwinhyundai.com/assets/inventory/vehicles/2t1burhe6ec208298/ip/thumbs/1-320.jpg
+CP424	Toyota	Corolla	LE	2T1BURHE9EC126761	Red	33,359	$12,533	http://www.irwinhyundai.com/assets/inventory/vehicles/2t1burhe9ec126761/ip/thumbs/1-320.jpg
+HJT767A	Toyota	RAV4	Limited	2T3DFREV5EW166333	Silver	58,563	$19,899	http://www.irwinhyundai.com/assets/inventory/vehicles/2t3dfrev5ew166333/ip/thumbs/1-320.jpg
+HJT583B	Toyota	RAV4	XLE	2T3RFREV9EW132529	Blue	53,250	$18,403	http://www.irwinhyundai.com/assets/inventory/vehicles/2t3rfrev9ew132529/ip/thumbs/1-320.jpg
+AF2088	Ram	3500	SLT	3C7WRTAL6EG123771	N/A	20,173	$40,349	http://www.irwinhyundai.com/assets/inventory/vehicles/3c7wrtal6eg123771/ip/thumbs/1-320.jpg
+HLT835A	Lincoln	MKZ	AWD	3LN6L2JK4ER813096	White	59,832	$22,618	http://www.irwinhyundai.com/assets/inventory/vehicles/3ln6l2jk4er813096/ip/thumbs/1-320.jpg
+HJT632A	Subaru	Outback	2.5i	4S4BRBAC0E3217486	Blue	35,241	$21,379	http://www.irwinhyundai.com/assets/inventory/vehicles/4s4brbac0e3217486/ip/thumbs/1-320.jpg
+LB811	Toyota	Venza	XLE	4T3BK3BB1EU105748	Gray	39,295	$20,999	http://www.irwinhyundai.com/assets/inventory/vehicles/4t3bk3bb1eu105748/ip/thumbs/1-320.jpg
+CP427	Toyota	Camry	LE	4T4BF1FK9ER371794	Silver	30,530	$14,909	http://www.irwinhyundai.com/assets/inventory/vehicles/4t4bf1fk9er371794/ip/thumbs/1-320.jpg
+7697Z	Toyota	Sienna	LE	5TDKK3DC3ES425340	White	51,835	$17,934	http://www.irwinhyundai.com/assets/inventory/vehicles/5tdkk3dc3es425340/ip/thumbs/1-320.jpg
+LHJT803A	Toyota	Tundra	4WD Truck SR5	5TFDY5F12EX394381	Black	28,708	$32,452	http://www.irwinhyundai.com/assets/inventory/vehicles/5tfdy5f12ex394381/ip/thumbs/1-320.jpg
+HJC777A	Toyota	Corolla	L	5YFBURHE7EP120151	Black	73,875	$11,779	http://www.irwinhyundai.com/assets/inventory/vehicles/5yfburhe7ep120151/ip/thumbs/1-320.jpg
+PP197	Toyota	Yaris	3Dr L	JTDJTUD31ED586473	Red	11,884	$11,012	http://www.irwinhyundai.com/assets/inventory/vehicles/jtdjtud31ed586473/ip/thumbs/1-320.jpg
+HJT809A	Toyota	4Runner	SR5	JTEBU5JR9E5173075	Blue	27,974	$28,662	http://www.irwinhyundai.com/assets/inventory/vehicles/jtebu5jr9e5173075/ip/thumbs/1-320.jpg
+CP426	Toyota	RAV4	LE	JTMBFREV4ED082833	Silver	33,498	$18,000	http://www.irwinhyundai.com/assets/inventory/vehicles/jtmbfrev4ed082833/ip/thumbs/1-320.jpg
+HFT367AA	Volvo	XC90	3.2	YV4952CZ1E1690662	Silver	42,021	$31,129	http://www.irwinhyundai.com/assets/inventory/vehicles/yv4952cz1e1690662/ip/thumbs/1-320.jpg
+HFT556A	Ford	Explorer	XLT	1FM5K8D82DGA22590	Red	91,623	$20,668	http://www.irwinhyundai.com/assets/inventory/vehicles/1fm5k8d82dga22590/ip/thumbs/1-320.jpg
+HFT553A	Ford	Explorer	XLT	1FM5K8D84DGA81902	Gray	74,747	$22,095	http://www.irwinhyundai.com/assets/inventory/vehicles/1fm5k8d84dga81902/ip/thumbs/1-320.jpg
+HFT479A	Ford	Escape	SE	1FMCU0GX6DUC92977	Gray	43,898	$13,314	http://www.irwinhyundai.com/assets/inventory/vehicles/1fmcu0gx6duc92977/ip/thumbs/1-320.jpg
+LHJT830A	GMC	Sierra	1500 SLT	1GTR2WE73DZ258699	Silver	75,149	$25,414	http://www.irwinhyundai.com/assets/inventory/vehicles/1gtr2we73dz258699/ip/thumbs/1-320.jpg
+CD556	Ford	Edge	SE	2FMDK3GC3DBA59797	Slate Metallic	<li class="mileageDisplay"><strong>Mileage: </strong>10</li>	N/A	http://www.irwinhyundai.com/assets/inventory/vehicles/2fmdk3gc3dba59797/ip/thumbs/1-320.jpg
+CD557	Ford	Edge	SE	2FMDK4GC7DBA53359	Slate Metallic	<li class="mileageDisplay"><strong>Mileage: </strong>10</li>	N/A	http://www.irwinhyundai.com/assets/inventory/vehicles/2fmdk4gc7dba53359/ip/thumbs/1-320.jpg
+HHT961A	Chevrolet	Equinox	LT	2GNFLNEKXD6213390	Black	84,626	$13,357	http://www.irwinhyundai.com/assets/inventory/vehicles/2gnflnekxd6213390/ip/thumbs/1-320.jpg
+LHJT831B	Honda	CR-V	EX-L	2HKRM4H78DH618566	Black	61,556	$18,207	http://www.irwinhyundai.com/assets/inventory/vehicles/2hkrm4h78dh618566/ip/thumbs/1-320.jpg
+HJT717B	Toyota	Corolla	S	2T1BU4EE3DC108164	Black	40,872	$12,328	http://www.irwinhyundai.com/assets/inventory/vehicles/2t1bu4ee3dc108164/ip/thumbs/1-320.jpg
+HFT500A	Ford	Fusion	SE	3FA6P0HR7DR205870	White	28,758	$14,000	http://www.irwinhyundai.com/assets/inventory/vehicles/3fa6p0hr7dr205870/ip/thumbs/1-320.jpg
+LHJT652A	Toyota	Tacoma	N/A	3TMLU4EN9DM118046	Black	37,180	$27,844	http://www.irwinhyundai.com/assets/inventory/vehicles/3tmlu4en9dm118046/ip/thumbs/1-320.jpg
+HJC964A	Toyota	Camry	Hybrid XLE	4T1BD1FK3DU075913	Red	49,389	$14,414	http://www.irwinhyundai.com/assets/inventory/vehicles/4t1bd1fk3du075913/ip/thumbs/1-320.jpg
+HJT856A	Toyota	Camry	SE	4T1BF1FK0DU241749	Gray	70,954	$12,334	http://www.irwinhyundai.com/assets/inventory/vehicles/4t1bf1fk0du241749/ip/thumbs/1-320.jpg
+LHJT920A	Toyota	Sienna	XLE	5TDDK3DC0DS068903	Red	58,789	$24,464	http://www.irwinhyundai.com/assets/inventory/vehicles/5tddk3dc0ds068903/ip/thumbs/1-320.jpg
+LHLT856A	Toyota	Highlander	Limited	5TDDK3EH1DS266660	Red	48,473	$25,309	http://www.irwinhyundai.com/assets/inventory/vehicles/5tddk3eh1ds266660/ip/thumbs/1-320.jpg
+CD565	Toyota	Highlander	Limited	5TDDK3EH3DS176538	Gray	<li class="mileageDisplay"><strong>Mileage: </strong>10</li>	N/A	http://www.irwinhyundai.com/assets/inventory/vehicles/5tddk3eh3ds176538/ip/thumbs/1-320.jpg
+LHJT916A	Toyota	Tundra	4WD Truck DBL CAB 4X4 5.7L V8	5TFUY5F11DX316088	Gray	34,209	$28,258	http://www.irwinhyundai.com/assets/inventory/vehicles/5tfuy5f11dx316088/ip/thumbs/1-320.jpg
+HJC940A	Toyota	Prius	Three	JTDKN3DU7D1677636	Blue	89,325	$12,809	http://www.irwinhyundai.com/assets/inventory/vehicles/jtdkn3du7d1677636/ip/thumbs/1-320.jpg
+HJT848A	Scion	xD	Stick Shift	JTKKUPB46D1036760	Gray	52,789	$9,684	http://www.irwinhyundai.com/assets/inventory/vehicles/jtkkupb46d1036760/ip/thumbs/1-320.jpg
+HJC880A	Toyota	RAV4	LE	JTMBFREV5D5005851	Blue	57,122	$16,369	http://www.irwinhyundai.com/assets/inventory/vehicles/jtmbfrev5d5005851/ip/thumbs/1-320.jpg
+HFT554A	Hyundai	Tucson	GLS	KM8JUCAC7DU731604	Silver	31,009	$18,096	http://www.irwinhyundai.com/assets/inventory/vehicles/km8jucac7du731604/ip/thumbs/1-320.jpg
+HHC218A	Hyundai	Elantra	GT	KMHD35LE1DU062353	Black	105,608	$7,000	http://www.irwinhyundai.com/assets/inventory/vehicles/kmhd35le1du062353/ip/thumbs/1-320.jpg
+CD503	Ford	Taurus	SE	1FAHP2DW9CG109695	White	34,020	N/A	http://www.irwinhyundai.com/assets/inventory/vehicles/1fahp2dw9cg109695/ip/thumbs/1-320.jpg
+CD517	Ford	Taurus	SEL	1FAHP2HW4CG121733	Black	34,054	N/A	http://www.irwinhyundai.com/assets/inventory/vehicles/1fahp2hw4cg121733/ip/thumbs/1-320.jpg
+CD549	Ford	Econoline	Cargo Van	1FTSS3EL5CDA80237	White	<li class="mileageDisplay"><strong>Mileage: </strong>10</li>	N/A	http://www.irwinhyundai.com/assets/inventory/vehicles/1ftss3el5cda80237/ip/thumbs/1-320.jpg
+LHJT657A	Chevrolet	Silverado	1500 LT	1GCRKSE79CZ333168	Black	49,842	$26,458	http://www.irwinhyundai.com/assets/inventory/vehicles/1gcrkse79cz333168/ip/thumbs/1-320.jpg
+LB820A	GMC	Acadia	SLE	1GKKVPED6CJ249100	Chrome Metalli	47,872	$21,052	http://www.irwinhyundai.com/assets/inventory/vehicles/1gkkvped6cj249100/ip/thumbs/1-320.jpg
+HJC882A	Nissan	Altima	2.5 S	1N4AL2AP9CC214948	Black	94,830	$9,899	http://www.irwinhyundai.com/assets/inventory/vehicles/1n4al2ap9cc214948/ip/thumbs/1-320.jpg
+CD561	Ford	Fusion	SE	3FAHP0HA7CR441002	Silver	<li class="mileageDisplay"><strong>Mileage: </strong>10</li>	N/A	http://www.irwinhyundai.com/assets/inventory/vehicles/3fahp0ha7cr441002/ip/thumbs/1-320.jpg
+CD560	Ford	Fusion	SE	3FAHP0HA8CR441526	White	<li class="mileageDisplay"><strong>Mileage: </strong>10</li>	N/A	http://www.irwinhyundai.com/assets/inventory/vehicles/3fahp0ha8cr441526/ip/thumbs/1-320.jpg
+HFC655B	Chevrolet	Captiva	Sport Fleet LT	3GNAL3E57CS632015	Black	120,633	$10,205	http://www.irwinhyundai.com/assets/inventory/vehicles/3gnal3e57cs632015/ip/thumbs/1-320.jpg
+HJC931A	Toyota	Camry	Hybrid XLE	4T1BD1FK7CU047532	White	51,426	$15,000	http://www.irwinhyundai.com/assets/inventory/vehicles/4t1bd1fk7cu047532/ip/thumbs/1-320.jpg
+GFT350A	Toyota	Camry	XLE	4T1BK1FK6CU505809	Silver	66,389	$14,808	http://www.irwinhyundai.com/assets/inventory/vehicles/4t1bk1fk6cu505809/ip/thumbs/1-320.jpg
+HJT765A	Toyota	Camry	XLE	4T4BF1FKXCR219813	Silver	48,483	$14,000	http://www.irwinhyundai.com/assets/inventory/vehicles/4t4bf1fkxcr219813/ip/thumbs/1-320.jpg
+HJT899A	Toyota	Camry	LE	4T4BF1FKXCR234974	Gray	58,675	$12,380	http://www.irwinhyundai.com/assets/inventory/vehicles/4t4bf1fkxcr234974/ip/thumbs/1-320.jpg
+LHJT840A	Honda	CR-V	EX	5J6RM4H55CL033558	Red	92,438	$13,429	http://www.irwinhyundai.com/assets/inventory/vehicles/5j6rm4h55cl033558/ip/thumbs/1-320.jpg
+HJT795B	Kia	Optima	EX	5XXGN4A73CG042054	Gray	55,769	$13,545	http://www.irwinhyundai.com/assets/inventory/vehicles/5xxgn4a73cg042054/ip/thumbs/1-320.jpg
+HJT802A	Honda	CR-V	EX-L	JHLRM4H79CC008382	Blue	90,050	$15,706	http://www.irwinhyundai.com/assets/inventory/vehicles/jhlrm4h79cc008382/ip/thumbs/1-320.jpg
+CJC491	Toyota	Prius	c	JTDKDTB36C1007541	Blue	4,072	$26,264	http://www.irwinhyundai.com/assets/inventory/vehicles/jtdkdtb36c1007541/ip/thumbs/1-320.jpg
+LGFT466A	Ford	Super	Duty F-350 SRW Lariat Diesel	1FT8W3BT8BEC27873	Black	70,777	$37,190	http://www.irwinhyundai.com/assets/inventory/vehicles/1ft8w3bt8bec27873/ip/thumbs/1-320.jpg
+HJT600B	Ford	F-150	XLT	1FTFW1EFXBFC82384	Blue	78,844	$21,147	http://www.irwinhyundai.com/assets/inventory/vehicles/1ftfw1efxbfc82384/ip/thumbs/1-320.jpg
+HJT805A	Chevrolet	Traverse	LT w/2LT	1GNKVJED4BJ114227	White	71,685	$16,337	http://www.irwinhyundai.com/assets/inventory/vehicles/1gnkvjed4bj114227/ip/thumbs/1-320.jpg
+LHJC1027A	Chevrolet	Traverse	LT w/2LT	1GNKVJEDXBJ148561	Gray	141,548	$12,079	http://www.irwinhyundai.com/assets/inventory/vehicles/1gnkvjedxbj148561/ip/thumbs/1-320.jpg
+HPT037A	Ford	Police	Interceptor Police Interceptor	2FABP7BV1BX123581	N/A	<li class="mileageDisplay"><strong>Mileage: </strong>0</li>	$2,998	http://www.irwinhyundai.com/assets/inventory/vehicles/2fabp7bv1bx123581/ip/thumbs/1-320.jpg
+HJT614A	Ford	Edge	SEL	2FMDK4JCXBBB57673	Slate Metallic	74,590	$15,946	http://www.irwinhyundai.com/assets/inventory/vehicles/2fmdk4jcxbbb57673/ip/thumbs/1-320.jpg
+HFT415A	Toyota	Camry	LE	4T1BF3EK1BU762702	Silver	40,562	$12,365	http://www.irwinhyundai.com/assets/inventory/vehicles/4t1bf3ek1bu762702/ip/thumbs/1-320.jpg
+HJT704A	Toyota	Camry	SE	4T1BF3EK3BU752933	Blue	63,078	$12,249	http://www.irwinhyundai.com/assets/inventory/vehicles/4t1bf3ek3bu752933/ip/thumbs/1-320.jpg
+HJC1006A	Hyundai	Elantra	GLS	5NPDH4AEXBH026820	Silver	87,383	$8,512	http://www.irwinhyundai.com/assets/inventory/vehicles/5npdh4aexbh026820/ip/thumbs/1-320.jpg
+HJC782A	Toyota	Tacoma	Ext Cab 2WD	5TFTX4CNXBX009323	Red	74,876	$14,000	http://www.irwinhyundai.com/assets/inventory/vehicles/5tftx4cnxbx009323/ip/thumbs/1-320.jpg
+HJT580A	Toyota	Tacoma	N/A	5TFUU4EN5BX004816	Silver	87,600	$19,750	http://www.irwinhyundai.com/assets/inventory/vehicles/5tfuu4en5bx004816/ip/thumbs/1-320.jpg
+HJT739A	Toyota	Prius	II	JTDKN3DUXB1363802	Blue	56,025	$12,611	http://www.irwinhyundai.com/assets/inventory/vehicles/jtdkn3duxb1363802/ip/thumbs/1-320.jpg
+LHFT547A	Ford	F-150	XLT	1FTFW1EV8AFB30450	Blue	85,393	$20,511	http://www.irwinhyundai.com/assets/inventory/vehicles/1ftfw1ev8afb30450/ip/thumbs/1-320.jpg
+HFT367B	Ford	Super	Duty F-250 SRW XLT	1FTSX2B59AEA37965	Green	106,148	$20,319	http://www.irwinhyundai.com/assets/inventory/vehicles/1ftsx2b59aea37965/ip/thumbs/1-320.jpg
+HFT372A	Jeep	Grand	Cherokee Limited	1J4RR5GTXAC127083	N/A	80,722	$14,546	http://www.irwinhyundai.com/assets/inventory/vehicles/1j4rr5gtxac127083/ip/thumbs/1-320.jpg
+HPT038A	Chevrolet	Impala	Police Police	2G1WD5EM5A1236830	N/A	<li class="mileageDisplay"><strong>Mileage: </strong>0</li>	$2,998	http://www.irwinhyundai.com/assets/inventory/vehicles/2g1wd5em5a1236830/ip/thumbs/1-320.jpg
+LB812A	Toyota	Corolla	LE	2T1BU4EE6AC327910	Red	125,804	$7,188	http://www.irwinhyundai.com/assets/inventory/vehicles/2t1bu4ee6ac327910/ip/thumbs/1-320.jpg
+HJT455A	Ford	Fusion	SE	3FAHP0HA1AR191754	Black	133,473	$4,998	http://www.irwinhyundai.com/assets/inventory/vehicles/3fahp0ha1ar191754/ip/thumbs/1-320.jpg
+HJT709A	Subaru	Outback	Ltd Pwr Moon	4S4BRDKC4A2375663	Green	83,086	$13,847	http://www.irwinhyundai.com/assets/inventory/vehicles/4s4brdkc4a2375663/ip/thumbs/1-320.jpg
+HJT668A	Toyota	Camry	LE	4T4BF3EK3AR071093	Blue	110,596	$8,557	http://www.irwinhyundai.com/assets/inventory/vehicles/4t4bf3ek3ar071093/ip/thumbs/1-320.jpg
+HJT794A	Toyota	Tundra	4WD Truck Grade	5TFUY5F13AX124795	Red	73,051	$23,274	http://www.irwinhyundai.com/assets/inventory/vehicles/5tfuy5f13ax124795/ip/thumbs/1-320.jpg
+LHJT830AB	Toyota	RAV4	N/A	JTMBF4DV6AD036466	Brown	61,419	$12,416	http://www.irwinhyundai.com/assets/inventory/vehicles/jtmbf4dv6ad036466/ip/thumbs/1-320.jpg
+GPC077A	Kia	Soul	N/A	KNDJT2A26A7172906	Green	91,584	$6,184	http://www.irwinhyundai.com/assets/inventory/vehicles/kndjt2a26a7172906/ip/thumbs/1-320.jpg
+LHJT892A	Ford	F-150	STX	1FTRX14W59KB50355	Blue	89,943	$14,954	http://www.irwinhyundai.com/assets/inventory/vehicles/1ftrx14w59kb50355/ip/thumbs/1-320.jpg
+LHJT963A	Toyota	Corolla	N/A	1NXBU40E49Z004702	Silver	71,940	$9,139	http://www.irwinhyundai.com/assets/inventory/vehicles/1nxbu40e49z004702/ip/thumbs/1-320.jpg
+LHJT970A	Toyota	Tacoma	N/A	5TEUX42N89Z648163	Green	103,732	$14,194	http://www.irwinhyundai.com/assets/inventory/vehicles/5teux42n89z648163/ip/thumbs/1-320.jpg
+LHJT738A	Chevrolet	Avalanche	LTZ	3GNFK12Y88G217999	White	213,040	$10,995	http://www.irwinhyundai.com/assets/inventory/vehicles/3gnfk12y88g217999/ip/thumbs/1-320.jpg
+LB819A	Hyundai	Santa	Fe GLS	5NMSG73D48H163905	Green	135,712	$7,544	http://www.irwinhyundai.com/assets/inventory/vehicles/5nmsg73d48h163905/ip/thumbs/1-320.jpg
+HJT773A	Toyota	Tacoma	N/A	5TEUU42N78Z542391	Blue	78,404	$17,486	http://www.irwinhyundai.com/assets/inventory/vehicles/5teuu42n78z542391/ip/thumbs/1-320.jpg
+LGJC1239A	Toyota	Prius	N/A	JTDKB20U087793207	Blue	115,494	$9,958	http://www.irwinhyundai.com/assets/inventory/vehicles/jtdkb20u087793207/ip/thumbs/1-320.jpg
+PP198A	Kia	Rio	LX	KNADE123X86337779	N/A	154,387	$3,883	http://www.irwinhyundai.com/assets/inventory/vehicles/knade123x86337779/ip/thumbs/1-320.jpg
+GFT059A	Ford	Super	Duty F-350 SRW	1FTWF31Y47EA25608	Black	61,777	$19,570	http://www.irwinhyundai.com/assets/inventory/vehicles/1ftwf31y47ea25608/ip/thumbs/1-320.jpg
+HJT769A	Chevrolet	Silverado	1500	1GCEK19J37Z514495	Red	85,635	$19,599	http://www.irwinhyundai.com/assets/inventory/vehicles/1gcek19j37z514495/ip/thumbs/1-320.jpg
+HFT467A	Jeep	Patriot	Sport	1J8FF28W77D303205	Blue	176,376	$4,259	http://www.irwinhyundai.com/assets/inventory/vehicles/1j8ff28w77d303205/ip/thumbs/1-320.jpg
+HJT522C	Pontiac	Torrent	N/A	2CKDL73FX76086333	Silver	151,068	$5,260	http://www.irwinhyundai.com/assets/inventory/vehicles/2ckdl73fx76086333/ip/thumbs/1-320.jpg
+HJT665C	Ford	Edge	SE	2FMDK46C27BB02067	White	124,160	$8,240	http://www.irwinhyundai.com/assets/inventory/vehicles/2fmdk46c27bb02067/ip/thumbs/1-320.jpg
+LGFT260A	Ford	Edge	SEL	2FMDK48C07BA20707	Black	145,425	$7,802	http://www.irwinhyundai.com/assets/inventory/vehicles/2fmdk48c07ba20707/ip/thumbs/1-320.jpg
+HFT557A	Chevrolet	Impala	LTZ	2G1WU58R879224544	White	138,482	$6,988	http://www.irwinhyundai.com/assets/inventory/vehicles/2g1wu58r879224544/ip/thumbs/1-320.jpg
+LHJT786A	Toyota	Tundra	SR5	5TBBV54157S486248	Red	47,413	$22,421	http://www.irwinhyundai.com/assets/inventory/vehicles/5tbbv54157s486248/ip/thumbs/1-320.jpg
+HJT921A	Nissan	Murano	N/A	JN8AZ08W17W664354	White	52,801	$9,000	http://www.irwinhyundai.com/assets/inventory/vehicles/jn8az08w17w664354/ip/thumbs/1-320.jpg
+HMM020A	Chevrolet	Aveo	LS	KL1TD66687B693986	White	197,952	$3,349	http://www.irwinhyundai.com/assets/inventory/vehicles/kl1td66687b693986/ip/thumbs/1-320.jpg
+LHJT737B	Audi	A4	2.0T	WAUAF78E77A158011	Silver	148,460	$5,722	http://www.irwinhyundai.com/assets/inventory/vehicles/wauaf78e77a158011/ip/thumbs/1-320.jpg
+LHJT919A	Ford	Escape	XLT	1FMCU93166KC26563	Blue	124,311	$5,319	http://www.irwinhyundai.com/assets/inventory/vehicles/1fmcu93166kc26563/ip/thumbs/1-320.jpg
+LHFT489B	Ford	Escape	XLT	1FMYU93186KC26747	Green	197,579	$4,679	http://www.irwinhyundai.com/assets/inventory/vehicles/1fmyu93186kc26747/ip/thumbs/1-320.jpg
+HJT544B	Toyota	Avalon	Touring	4T1BK36B16U100845	Gray	159,285	$5,975	http://www.irwinhyundai.com/assets/inventory/vehicles/4t1bk36b16u100845/ip/thumbs/1-320.jpg
+GFT421A	Subaru	Impreza	Wagon i	JF1GG67686G817021	Gray Metalli	87,341	$6,549	http://www.irwinhyundai.com/assets/inventory/vehicles/jf1gg67686g817021/ip/thumbs/1-320.jpg
+LHJC1023A	Subaru	Impreza	Wagon Outback Sport	JF1GG68676H810053	Gray Metalli	165,611	$5,149	http://www.irwinhyundai.com/assets/inventory/vehicles/jf1gg68676h810053/ip/thumbs/1-320.jpg
+LHJT935A	Toyota	Highlander	Limited w/3rd Row	JTEEP21A460186845	Blue	183,381	$8,388	http://www.irwinhyundai.com/assets/inventory/vehicles/jteep21a460186845/ip/thumbs/1-320.jpg
+HJT798A	Dodge	Dakota	SLT	1D7HW42N55S164251	Gray	72,189	$10,317	http://www.irwinhyundai.com/assets/inventory/vehicles/1d7hw42n55s164251/ip/thumbs/1-320.jpg
+PP201	Toyota	Corolla	CE	2T1BR32EX4C308328	Silver	40,745	$7,655	http://www.irwinhyundai.com/assets/inventory/vehicles/2t1br32ex4c308328/ip/thumbs/1-320.jpg
+GJT1254C	Honda	Odyssey	LX	5FNRL18584B136579	Gray	150,206	$3,498	http://www.irwinhyundai.com/assets/inventory/vehicles/5fnrl18584b136579/ip/thumbs/1-320.jpg
+HJT340A	Toyota	Tacoma	N/A	5TEHN72N34Z444419	Black	182,132	$11,599	http://www.irwinhyundai.com/assets/inventory/vehicles/5tehn72n34z444419/ip/thumbs/1-320.jpg
+LHHT910B	Hyundai	Santa	Fe GLS	KM8SC73EX3U538875	Red	249,725	$2,451	http://www.irwinhyundai.com/assets/inventory/vehicles/km8sc73ex3u538875/ip/thumbs/1-320.jpg
+LHJT394B	Acura	TL	Type S	19UUA56862A020101	Silver	204,999	$4,897	http://www.irwinhyundai.com/assets/inventory/vehicles/19uua56862a020101/ip/thumbs/1-320.jpg
+LHFT488C	Ford	F-150	XLT	1FTRW08L72KB31485	Red	145,757	$7,699	http://www.irwinhyundai.com/assets/inventory/vehicles/1ftrw08l72kb31485/ip/thumbs/1-320.jpg
+HJC945B	Toyota	Corolla	LE	1NXBR12E01Z437497	Red	162,302	$3,159	http://www.irwinhyundai.com/assets/inventory/vehicles/1nxbr12e01z437497/ip/thumbs/1-320.jpg
+HMM011B	Toyota	Sienna	FWD	4T3ZF13C5YU278904	Gold	140,301	$4,311	http://www.irwinhyundai.com/assets/inventory/vehicles/4t3zf13c5yu278904/ip/thumbs/1-320.jpg
+LHJT871A	Chrysler	Concorde	N/A	2C3EL56T0RH233868	Green	52,581	N/A	<img alt="1994 Chrysler Concorde" class="img-responsive vehicleImg " data-img="/assets/vehiclephotos/missing/photo_unavailable_320.gif" data-thumbnail-vin="2C3EL56T0RH233868" src="/assets/vehiclephotos/missing/photo_unavailable_320.gif" title="1994 Chrysler Concorde"/>
