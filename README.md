@@ -1,5 +1,5 @@
-# Pre-OwnedCarsWebCrawler
-Multi-threaded python web crawler that scrapes and sequences data from 3 large automotive websites. 
+# Pre-OwnedCarsWebScraper
+Multi-threaded python web scraper that scrapes and sequences data from 3 large automotive websites. 
 
 Created in Jan 2017 using Python and the parser Beautiful Soup.
 
